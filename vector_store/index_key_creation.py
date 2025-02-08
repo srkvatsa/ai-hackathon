@@ -25,7 +25,8 @@ with open(JSON_FILE, "r", encoding="utf-8") as f:
 
 #print(len(chunks))
 #print(len(keys))
-concats = [keys[i] + chunks[i] for i in range(len(chunks))]
+concats = [keys[i] + '\n' + chunks[i] for i in range(len(chunks))]
+print(concats[0])
 # Generate embeddings for the keys
 print("Generating embeddings for keywords...")
 embeddings = model.encode(concats, convert_to_numpy=True, normalize_embeddings=True)
