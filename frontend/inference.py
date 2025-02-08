@@ -1,34 +1,44 @@
-def add_human_prompt(content):
-    pass
+import index_search
 
-def get_response(prompt):
-    pass
-    # augment prompt
-    # augmented_prompt = custom_prompt(qdrant_tao, prompt)
-    
-    # # process prompt
-    # add_human_prompt(augmented_prompt)
-    
-    # # send to TinyLlama
-    # res = chat.invoke(messages)
+def augment_prompt(query: str, source_knowledge):
+    #augment_prompt = f'''[INST] You are an expert assistant providing detailed and accurate responses. Use the provided context to answer the user's question as accurately as possible. If the context is insufficient, indicate that you do not have enough information rather than making up an answer. 
+    augment_prompt = f'''
+    [INST] 
+Using only the following historal context, answer the query from the User
+<Historical Textbook Background> 
+{source_knowledge}
+<Historical Textbook Background> 
 
-    # # return response
-    # return res.content
+## User Question: {query}
 
-def augment_prompt(client, query: str):
-    pass
-    # kws = keyword_search.search(query);
-    # results = vec_db.similarity_search(kws, k=3)
-    # source_knowledge = "\n".join([x.page_content for x in results])
-    # augment_prompt = f"""Using the contexts below, answer the query:
+## Response:
+[/INST]
+    '''
 
-    # Contexts:
-    # {source_knowledge}
-
-    # Query: {query}"""
-    # return augment_prompt
+    return augment_prompt
 
 import requests
+
+def query(prompt):
+    # user_query = input("Enter your query: ")
+    kws = index_search.gen_keywords_from_prompt(prompt)
+    print(kws)
+    results = index_search.search_faiss_index(index, kws, top_k=5)
+    print(results)
+    context = ""
+    for result in results:
+        doc = index_search.get_chunk_text(result[0])
+        context += '\n\n' + doc
+    
+    final_prompt = augment_prompt(prompt, context)
+    print(f"{final_prompt}\n\n")
+    return query_llama(final_prompt)
+
+    # print("Top relevant results:")
+    # for idx, score in results:
+    #     print(f"Chunk ID: {idx}, Distance: {score}")
+    #     print(get_chunk_text(idx))
+
 
 def query_llama(query: str, host: str = "http://localhost:8080") -> str:
     """
@@ -58,6 +68,9 @@ def query_llama(query: str, host: str = "http://localhost:8080") -> str:
         return f"Error communicating with llama.cpp: {e}"
 
 
-
-
 messages = []
+index = index_search.load_faiss_index()
+
+if __name__ == "__main__":
+    prompt = input("Enter your query: ")
+    print(query(prompt))

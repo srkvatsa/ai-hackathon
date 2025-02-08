@@ -3,12 +3,13 @@ import os
 import faiss
 import numpy as np
 from keybert import KeyBERT
+import json
 
 # Load the MiniLM model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 kw_model = KeyBERT()
 
-def load_faiss_index(index_path="faiss_roman_keywords.index"):
+def load_faiss_index(index_path="../vector_store/faiss_roman_keywords.index"):
     """Loads the FAISS index from the given file."""
     return faiss.read_index(index_path)
 
@@ -33,18 +34,30 @@ def search_faiss_index(index, query, top_k=5):
     # Return results as a list of (index_id, similarity_score)
     return list(zip(indices[0], distances[0]))
 
-def get_chunk_text(chunk_id, metadata_path="metadata.txt"):
-    with open(metadata_path, "r", encoding="utf-8") as meta_file:
-        lines = meta_file.readlines()
-        chunk_file = dict(line.strip().split("\t") for line in lines).get(str(chunk_id), None)
+def get_chunk_text(chunk_id, metadata_path="../vector_store/metadata.json"):
+    """
+    Retrieves the chunk text corresponding to the given chunk_id from the metadata JSON file.
 
-    if chunk_file and os.path.exists(chunk_file):
-        with open(chunk_file, "r", encoding="utf-8") as f:
-            return f.read().strip()
-    return f"Chunk {chunk_id} not found."
+    Args:
+        chunk_id (int or str): The chunk ID to look up.
+        metadata_path (str): Path to the JSON metadata file.
+
+    Returns:
+        str: The chunk text if found, otherwise an error message.
+    """
+    with open(metadata_path, "r", encoding="utf-8") as f:
+        metadata = json.load(f)
+
+    chunk_data = metadata.get(str(chunk_id))  # Ensure we look for chunk_id as a string
+    if chunk_data and "chunk" in chunk_data:
+        return chunk_data["chunk"]
+    else:
+        return f"Chunk {chunk_id} not found."
+    
 
 def gen_keywords_from_prompt(prompt):
     res = kw_model.extract_keywords(prompt, top_n=10)
+    print(f"res: {res}")
     kws = ", ".join([keyword[0] for keyword in res])
     return kws
 
