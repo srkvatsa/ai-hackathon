@@ -1,5 +1,7 @@
-streamlit=1.42.0keybert  
+streamlit
+keybert  
 sentence-transformers  
 ctransformers  
 transformers  
 langchain
+faiss-cpu
