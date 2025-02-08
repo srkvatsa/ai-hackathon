@@ -13,7 +13,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # Process user input
-if prompt := st.chat_input("How did Julius Caesar cross the Rubicon?"):
+if prompt := st.chat_input("What is the significance of Julius Caesar's crossing the Rubicon?"):
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
