@@ -2,11 +2,13 @@ from sentence_transformers import SentenceTransformer
 import os
 import faiss
 import numpy as np
+from keybert import KeyBERT
 
 # Load the MiniLM model
 model = SentenceTransformer("all-MiniLM-L6-v2")
+kw_model = KeyBERT()
 
-def load_faiss_index(index_path="faiss_roman_chunks.index"):
+def load_faiss_index(index_path="faiss_roman_keywords.index"):
     """Loads the FAISS index from the given file."""
     return faiss.read_index(index_path)
 
@@ -41,11 +43,18 @@ def get_chunk_text(chunk_id, metadata_path="metadata.txt"):
             return f.read().strip()
     return f"Chunk {chunk_id} not found."
 
+def gen_keywords_from_prompt(prompt):
+    res = kw_model.extract_keywords(prompt, top_n=10)
+    kws = ", ".join([keyword[0] for keyword in res])
+    return kws
+
 # Example Usage
 if __name__ == "__main__":
     index = load_faiss_index()
     user_query = input("Enter your query: ")
-    results = search_faiss_index(index, user_query, top_k=5)
+    kws = gen_keywords_from_prompt(user_query)
+    print(kws)
+    results = search_faiss_index(index, kws, top_k=5)
 
     print("Top relevant results:")
     for idx, score in results:
