@@ -24,11 +24,13 @@ if prompt := st.chat_input("What is the significance of Julius Caesar's crossing
 
         # Call RAG backend (llama.cpp)
         try:
-            full_response = inference.query(prompt)  # Fetch response from LLaMA
+            full_response, context = inference.query(prompt)  # Fetch response from LLaMA
         except Exception as e:
-            full_response = f"Error: {e}"
+            full_response, context = (f"Error: {e}", "")
 
-        message_placeholder.markdown(full_response)
+        # print(f"Textbook results {context}")
+        message_placeholder.markdown(f"Textbook Results\n{context}\n\n\nChat Summary:\n {full_response}")
+
     
     # Store assistant response
     st.session_state.messages.append({"role": "assistant", "content": full_response})

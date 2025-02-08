@@ -9,7 +9,7 @@ import json
 model = SentenceTransformer("all-MiniLM-L6-v2")
 kw_model = KeyBERT()
 
-def load_faiss_index(index_path="../vector_store/faiss_roman_keywords.index"):
+def load_faiss_index(index_path="../vector_store/faiss_roman_concats.index"):
     """Loads the FAISS index from the given file."""
     return faiss.read_index(index_path)
 

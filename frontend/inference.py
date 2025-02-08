@@ -4,7 +4,7 @@ def augment_prompt(query: str, source_knowledge):
     #augment_prompt = f'''[INST] You are an expert assistant providing detailed and accurate responses. Use the provided context to answer the user's question as accurately as possible. If the context is insufficient, indicate that you do not have enough information rather than making up an answer. 
     augment_prompt = f'''
     [INST] 
-Using only the following historal context, answer the query from the User
+Using only the following historal context, answer the query from the User. Always quote from the historical textbook you are given within <Historical Textbook Background>. 
 <Historical Textbook Background> 
 {source_knowledge}
 <Historical Textbook Background> 
@@ -21,9 +21,9 @@ import requests
 
 def query(prompt):
     # user_query = input("Enter your query: ")
-    kws = index_search.gen_keywords_from_prompt(prompt)
-    print(kws)
-    results = index_search.search_faiss_index(index, kws, top_k=5)
+    # kws = index_search.gen_keywords_from_prompt(prompt)
+    # print(kws)
+    results = index_search.search_faiss_index(index, prompt, top_k=5)
     print(results)
     context = ""
     for result in results:
@@ -32,7 +32,7 @@ def query(prompt):
     
     final_prompt = augment_prompt(prompt, context)
     print(f"{final_prompt}\n\n")
-    return query_llama(final_prompt)
+    return query_ollama(final_prompt), context
 
     # print("Top relevant results:")
     # for idx, score in results:
@@ -66,6 +66,21 @@ def query_llama(query: str, host: str = "http://localhost:8080") -> str:
         return response.json()["choices"][0]["message"]["content"]
     except requests.exceptions.RequestException as e:
         return f"Error communicating with llama.cpp: {e}"
+    
+def query_ollama(query, host="http://localhost:11434", model="llama3.2"):
+    url = f"{host}/api/chat"
+    payload = {
+        "model": model,  # Example: "llama3.2"
+        "stream": False,
+        "messages": [{"role": "user", "content": query}],
+    }
+
+    try:
+        response = requests.post(url, json=payload)
+        response.raise_for_status()  # Raise an error for bad responses (4xx, 5xx)
+        return response.json()["message"]["content"]
+    except requests.exceptions.RequestException as e:
+        return f"Error communicating with Ollama API: {e}"
 
 
 messages = []
