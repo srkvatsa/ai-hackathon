@@ -1,5 +1,5 @@
 import streamlit as st
-import rag
+import frontend.inference as inference
 
 st.set_page_config(page_title="Ask Tao", page_icon='favicon.png')
 st.title("TinyTutor 🧑‍🎓")
@@ -24,7 +24,7 @@ if prompt := st.chat_input("What is the significance of Julius Caesar's crossing
 
         # Call RAG backend (llama.cpp)
         try:
-            full_response = rag.query_llama(prompt)  # Fetch response from LLaMA
+            full_response = inference.query_llama(prompt)  # Fetch response from LLaMA
         except Exception as e:
             full_response = f"Error: {e}"
 
