@@ -1,4 +1,4 @@
-keybert  
+streamlit=1.42.0keybert  
 sentence-transformers  
 ctransformers  
 transformers  
