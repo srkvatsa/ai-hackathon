@@ -1,1 +1,5 @@
-
+keybert  
+sentence-transformers  
+ctransformers  
+transformers  
+langchain
