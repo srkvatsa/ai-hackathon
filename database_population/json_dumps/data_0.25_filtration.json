@@ -1,0 +1,3601 @@
+{
+    "rome, gutenberg, ancient": [
+        "roman_chunks/chunk_0.txt"
+    ],
+    "ebook, laws": [
+        "roman_chunks/chunk_1.txt"
+    ],
+    "rome, ancient, earliest": [
+        "roman_chunks/chunk_2.txt"
+    ],
+    "ancient, rome, greece": [
+        "roman_chunks/chunk_3.txt"
+    ],
+    "requirements, examination, requirement, colleges": [
+        "roman_chunks/chunk_4.txt"
+    ],
+    "rome, caesar, maps, gaius": [
+        "roman_chunks/chunk_5.txt"
+    ],
+    "italy, rome, trieste, alps, peninsula": [
+        "roman_chunks/chunk_6.txt"
+    ],
+    "alps, apennines, adriatic, mountains": [
+        "roman_chunks/chunk_7.txt"
+    ],
+    "adriatic, tuscan": [
+        "roman_chunks/chunk_8.txt"
+    ],
+    "adriatic, tributaries, alps, river, lombardy, gaul, italy, gallia": [
+        "roman_chunks/chunk_9.txt"
+    ],
+    "venice, adriatic, venetia, mediterranean, italy, liguria, padua, alps, genua": [
+        "roman_chunks/chunk_10.txt"
+    ],
+    "adriatic, gallia, milan, cisalp\u00edna, ver\u00f3na, parma": [
+        "roman_chunks/chunk_11.txt"
+    ],
+    "adriatic, italy, mediterranean, peninsula, _italia": [
+        "roman_chunks/chunk_12.txt"
+    ],
+    "adriatic, italy, campania": [
+        "roman_chunks/chunk_13.txt"
+    ],
+    "rome, latium": [
+        "roman_chunks/chunk_14.txt"
+    ],
+    "vesuvius, volcano, umbria, etruria": [
+        "roman_chunks/chunk_15.txt"
+    ],
+    "calabria, adriatic, apulia, italy, samnium": [
+        "roman_chunks/chunk_16.txt"
+    ],
+    "calabria, lucania, towns": [
+        "roman_chunks/chunk_17.txt"
+    ],
+    "sicily, trinacria, islands, island": [
+        "roman_chunks/chunk_18.txt"
+    ],
+    "sardinia, corsica, sicily, naples, italy, etruria, mainland": [
+        "roman_chunks/chunk_19.txt"
+    ],
+    "iapygians, iapygian, greeks": [
+        "roman_chunks/chunk_20.txt"
+    ],
+    "iapygians, ligurians, venetians, etruscans, venetia, liguria, italians": [
+        "roman_chunks/chunk_21.txt"
+    ],
+    "etruscans, etruria, confederacy, volsinii": [
+        "roman_chunks/chunk_22.txt"
+    ],
+    "corsica, volsinii, rome": [
+        "roman_chunks/chunk_23.txt"
+    ],
+    "romans, inscriptions": [
+        "roman_chunks/chunk_24.txt"
+    ],
+    "italians, hell\u00e9nes, italy": [
+        "roman_chunks/chunk_25.txt"
+    ],
+    "italians, tribes": [
+        "roman_chunks/chunk_26.txt"
+    ],
+    "italians, latins, etruria": [
+        "roman_chunks/chunk_27.txt"
+    ],
+    "('rhode', 0.345), ('rome', 0.3194)": [
+        "roman_chunks/chunk_28.txt"
+    ],
+    "fortified, settlements": [
+        "roman_chunks/chunk_29.txt"
+    ],
+    "('festival', 0.328), ('confederacy', 0.316)": [
+        "roman_chunks/chunk_30.txt"
+    ],
+    "romans, latins, latin, latium": [
+        "roman_chunks/chunk_31.txt"
+    ],
+    "rome, river, romans, janiculum": [
+        "roman_chunks/chunk_32.txt"
+    ],
+    "rome, palatine, romans, latins": [
+        "roman_chunks/chunk_33.txt"
+    ],
+    "settlers": [
+        "roman_chunks/chunk_34.txt"
+    ],
+    "gentes, ancestor, romans, gens, _gens_, descended": [
+        "roman_chunks/chunk_35.txt"
+    ],
+    "_patria, familias, family": [
+        "roman_chunks/chunk_36.txt"
+    ],
+    "roman, preside, senate": [
+        "roman_chunks/chunk_37.txt"
+    ],
+    "senate, senators, consuls": [
+        "roman_chunks/chunk_38.txt"
+    ],
+    "senators, senate, fathers": [
+        "roman_chunks/chunk_39.txt"
+    ],
+    "romans, familias_, roman, tribes, ancestor, tribe, gentes, clans, curia": [
+        "roman_chunks/chunk_40.txt"
+    ],
+    "ancestor, curia, _curia_, _tribe_, gens": [
+        "roman_chunks/chunk_41.txt"
+    ],
+    "roman, rome": [
+        "roman_chunks/chunk_42.txt"
+    ],
+    "curi\u00e1ta, comitium, comitia, curiae, roman, palatine": [
+        "roman_chunks/chunk_43.txt"
+    ],
+    "senate, curia, curiae, voting": [
+        "roman_chunks/chunk_44.txt"
+    ],
+    "rome": [
+        "roman_chunks/chunk_45.txt",
+        "roman_chunks/chunk_46.txt",
+        "roman_chunks/chunk_307.txt",
+        "roman_chunks/chunk_376.txt",
+        "roman_chunks/chunk_491.txt",
+        "roman_chunks/chunk_796.txt"
+    ],
+    "alba, ostia, hostilius": [
+        "roman_chunks/chunk_47.txt"
+    ],
+    "('rom\u00e1nus_', 0.3399), ('roman', 0.3064)": [
+        "roman_chunks/chunk_48.txt"
+    ],
+    "patricians, patrician, patron": [
+        "roman_chunks/chunk_49.txt"
+    ],
+    "patrician, patron, patrons, latins": [
+        "roman_chunks/chunk_50.txt"
+    ],
+    "slave, slaves, libertus, freedman": [
+        "roman_chunks/chunk_51.txt"
+    ],
+    "romans, rome, athens, foreigners": [
+        "roman_chunks/chunk_52.txt"
+    ],
+    "plebeians, romans, romanus_, rome, inhabitants, latin": [
+        "roman_chunks/chunk_53.txt"
+    ],
+    "plebeians, patricians, slaves": [
+        "roman_chunks/chunk_54.txt"
+    ],
+    "army, cavalry, infantry, _milites_": [
+        "roman_chunks/chunk_55.txt"
+    ],
+    "plebeians, patricians, servian, servius": [
+        "roman_chunks/chunk_56.txt"
+    ],
+    "centuries, classes, century": [
+        "roman_chunks/chunk_57.txt"
+    ],
+    "classes, fifth, centuries": [
+        "roman_chunks/chunk_58.txt"
+    ],
+    "infantry, ranks": [
+        "roman_chunks/chunk_59.txt"
+    ],
+    "cavalry, infantry, horse, soldier": [
+        "roman_chunks/chunk_60.txt"
+    ],
+    "plebeians, patricians": [
+        "roman_chunks/chunk_61.txt"
+    ],
+    "comitia, centuri\u00e1ta, martius, campus": [
+        "roman_chunks/chunk_62.txt"
+    ],
+    "('wealthy', 0.3376), ('majority', 0.3228)": [
+        "roman_chunks/chunk_63.txt"
+    ],
+    "rome, magistrates": [
+        "roman_chunks/chunk_64.txt"
+    ],
+    "tarquins, campania, dynasty, chapter": [
+        "roman_chunks/chunk_65.txt"
+    ],
+    "tarquinius, tarquins, etruscans, rome, lucius, etruscan": [
+        "roman_chunks/chunk_66.txt"
+    ],
+    "capitol\u00ednus, temple, capitolium, capitol, capitoline, jupiter, minerva": [
+        "roman_chunks/chunk_67.txt"
+    ],
+    "sewer": [
+        "roman_chunks/chunk_68.txt"
+    ],
+    "tullius, athens, rome, greek": [
+        "roman_chunks/chunk_69.txt"
+    ],
+    "tarquinius, rom\u00e1nus, caesar, tarquins": [
+        "roman_chunks/chunk_70.txt"
+    ],
+    "consuls": [
+        "roman_chunks/chunk_71.txt"
+    ],
+    "dictator, appointed, comitia, authority, consuls": [
+        "roman_chunks/chunk_72.txt"
+    ],
+    "plebeians": [
+        "roman_chunks/chunk_73.txt",
+        "roman_chunks/chunk_80.txt",
+        "roman_chunks/chunk_86.txt"
+    ],
+    "plebeians, senate": [
+        "roman_chunks/chunk_74.txt"
+    ],
+    "senate, consuls, roman, magistrates, comitia, judges": [
+        "roman_chunks/chunk_75.txt"
+    ],
+    "consuls, appointed, officers, senate, quaest\u00f3res, subordinate": [
+        "roman_chunks/chunk_76.txt"
+    ],
+    "plebeians, romans, impoverished": [
+        "roman_chunks/chunk_77.txt"
+    ],
+    "wealth, rich, poor, debt": [
+        "roman_chunks/chunk_78.txt"
+    ],
+    "cavalry, plebeians": [
+        "roman_chunks/chunk_79.txt"
+    ],
+    "prisoners, liberated": [
+        "roman_chunks/chunk_81.txt"
+    ],
+    "plebeians, secession, plebs": [
+        "roman_chunks/chunk_82.txt"
+    ],
+    "plebeians, plebis": [
+        "roman_chunks/chunk_83.txt"
+    ],
+    "('confined', 0.3332), ('walls', 0.2718)": [
+        "roman_chunks/chunk_84.txt"
+    ],
+    "tribunes": [
+        "roman_chunks/chunk_85.txt"
+    ],
+    "aediles, plebeians, aedile, consuls, _aedes_, officers": [
+        "roman_chunks/chunk_87.txt"
+    ],
+    "secession, trib\u00fata": [
+        "roman_chunks/chunk_88.txt"
+    ],
+    "plebeians, voters, tribes, tribe": [
+        "roman_chunks/chunk_89.txt"
+    ],
+    "comitia, plebeians, trib\u00fata, presided, convened": [
+        "roman_chunks/chunk_90.txt"
+    ],
+    "patricians, plebeians, tribunes": [
+        "roman_chunks/chunk_91.txt"
+    ],
+    "agrarian, rome, laws": [
+        "roman_chunks/chunk_92.txt"
+    ],
+    "homesteads, patricians": [
+        "roman_chunks/chunk_93.txt"
+    ],
+    "('land', 0.3427), ('cattle', 0.2974)": [
+        "roman_chunks/chunk_94.txt"
+    ],
+    "plebeians, plebeian, patricians, priv\u00e1tus_, levied, occup\u00e1tus_": [
+        "roman_chunks/chunk_95.txt"
+    ],
+    "agrarian, plebeians": [
+        "roman_chunks/chunk_96.txt"
+    ],
+    "plebeians, patricians, genucius": [
+        "roman_chunks/chunk_97.txt"
+    ],
+    "plebeians, valero, publilius, tribune": [
+        "roman_chunks/chunk_98.txt"
+    ],
+    "trib\u00fata, plebisc\u00edta": [
+        "roman_chunks/chunk_99.txt"
+    ],
+    "plebeians, laws": [
+        "roman_chunks/chunk_100.txt"
+    ],
+    "patricians, terentilian, quinctius, patrician, laws": [
+        "roman_chunks/chunk_101.txt"
+    ],
+    "quinctius, kaeso, cincinn\u00e1tus, impeached": [
+        "roman_chunks/chunk_102.txt"
+    ],
+    "magistrates, comitia, decemvirate, commission": [
+        "roman_chunks/chunk_103.txt"
+    ],
+    "decemvirate, commission, appointed": [
+        "roman_chunks/chunk_104.txt"
+    ],
+    "senate, tables, roman": [
+        "roman_chunks/chunk_105.txt"
+    ],
+    "decemviri, claudius, virginius": [
+        "roman_chunks/chunk_106.txt"
+    ],
+    "decemviri, resign, seceded": [
+        "roman_chunks/chunk_107.txt"
+    ],
+    "plebeians, tables": [
+        "roman_chunks/chunk_108.txt"
+    ],
+    "plebeians, _gentes_, patricians": [
+        "roman_chunks/chunk_109.txt"
+    ],
+    "valerius, roman, valerio, consuls, magistrate": [
+        "roman_chunks/chunk_110.txt"
+    ],
+    "plebeians, plebeian, senate": [
+        "roman_chunks/chunk_111.txt"
+    ],
+    "tribunes, senate, patricians": [
+        "roman_chunks/chunk_112.txt"
+    ],
+    "plebeians, canuleius, intermarriage, canuleian, marriages, patricians": [
+        "roman_chunks/chunk_113.txt"
+    ],
+    "consulship, plebeians, consuls, consul, canuleius": [
+        "roman_chunks/chunk_114.txt"
+    ],
+    "patricians, plebeian": [
+        "roman_chunks/chunk_115.txt"
+    ],
+    "plebeians, patricians, censors, officers": [
+        "roman_chunks/chunk_116.txt"
+    ],
+    "quaestors, quaestor, plebeians, rome": [
+        "roman_chunks/chunk_117.txt"
+    ],
+    "plebeians, patricians, tribunes, licinius": [
+        "roman_chunks/chunk_118.txt"
+    ],
+    "landlords": [
+        "roman_chunks/chunk_119.txt"
+    ],
+    "concordia, consul": [
+        "roman_chunks/chunk_120.txt"
+    ],
+    "plebeians, plebiscita": [
+        "roman_chunks/chunk_121.txt"
+    ],
+    "plebeians, patricians, citizenship, citizens, roman": [
+        "roman_chunks/chunk_122.txt"
+    ],
+    "rome, plebeians": [
+        "roman_chunks/chunk_123.txt"
+    ],
+    "romans, etruria, allia, rome, etrurians": [
+        "roman_chunks/chunk_124.txt"
+    ],
+    "romans, rome, celts": [
+        "roman_chunks/chunk_125.txt"
+    ],
+    "('history', 0.324), ('data', 0.2963)": [
+        "roman_chunks/chunk_126.txt"
+    ],
+    "romans, conquered, annexed, colonies": [
+        "roman_chunks/chunk_127.txt"
+    ],
+    "colonists, latins, colonies, latin, rome, annexed": [
+        "roman_chunks/chunk_128.txt"
+    ],
+    "etruria, caere, rome, municipium": [
+        "roman_chunks/chunk_129.txt"
+    ],
+    "municipia, inhabitants, citizens": [
+        "roman_chunks/chunk_130.txt"
+    ],
+    "rome, tarrac\u00edna": [
+        "roman_chunks/chunk_131.txt"
+    ],
+    "samnites, capua, campania": [
+        "roman_chunks/chunk_132.txt"
+    ],
+    "samnites, capua, te\u00e1num": [
+        "roman_chunks/chunk_133.txt"
+    ],
+    "samnites, samnite": [
+        "roman_chunks/chunk_134.txt",
+        "roman_chunks/chunk_150.txt"
+    ],
+    "samnite, rome": [
+        "roman_chunks/chunk_135.txt"
+    ],
+    "romans, rome, trig\u00e1num, latins, vesuvius": [
+        "roman_chunks/chunk_136.txt"
+    ],
+    "vesuvius, romans, manlius": [
+        "roman_chunks/chunk_137.txt"
+    ],
+    "rome, latins, annexed, rom\u00e1nus_, latin, confederacy, roman": [
+        "roman_chunks/chunk_138.txt"
+    ],
+    "rome, latins, colonies, colonists, latin": [
+        "roman_chunks/chunk_139.txt"
+    ],
+    "antium, rome, rostra, _rostra_": [
+        "roman_chunks/chunk_140.txt"
+    ],
+    "forum, _forum": [
+        "roman_chunks/chunk_141.txt"
+    ],
+    "samnites, samnite, romans, rome": [
+        "roman_chunks/chunk_142.txt"
+    ],
+    "samnites": [
+        "roman_chunks/chunk_143.txt"
+    ],
+    "pontius, romans": [
+        "roman_chunks/chunk_144.txt",
+        "roman_chunks/chunk_145.txt"
+    ],
+    "treaty, roman": [
+        "roman_chunks/chunk_146.txt"
+    ],
+    "treaty, rome": [
+        "roman_chunks/chunk_147.txt"
+    ],
+    "pontius, fabius, samnites": [
+        "roman_chunks/chunk_148.txt"
+    ],
+    "etruscans": [
+        "roman_chunks/chunk_149.txt"
+    ],
+    "('battle', 0.3447), ('samnites', 0.3438)": [
+        "roman_chunks/chunk_151.txt"
+    ],
+    "fabius, decius, gauls": [
+        "roman_chunks/chunk_152.txt"
+    ],
+    "sabines, samnites, annexed, adriatic, rome": [
+        "roman_chunks/chunk_153.txt"
+    ],
+    "sea, umbrians, gauls, samnites, south, north, etruscans, nations": [
+        "roman_chunks/chunk_154.txt"
+    ],
+    "romans, senonian, gauls, gallica": [
+        "roman_chunks/chunk_155.txt"
+    ],
+    "rome, graecia, sicily, tarentum, greece": [
+        "roman_chunks/chunk_156.txt"
+    ],
+    "rome, barbarians": [
+        "roman_chunks/chunk_157.txt"
+    ],
+    "tarentum, tarentines, romans": [
+        "roman_chunks/chunk_158.txt"
+    ],
+    "thurii, lucanians, rome, tarentum": [
+        "roman_chunks/chunk_159.txt"
+    ],
+    "rome, tarentum, ships, roman, fleet": [
+        "roman_chunks/chunk_160.txt"
+    ],
+    "rome, ambassador, postumius, consuls, mockery, tarentines": [
+        "roman_chunks/chunk_161.txt"
+    ],
+    "tarentum, pyrrhus, alexander, ep\u00edrus": [
+        "roman_chunks/chunk_162.txt"
+    ],
+    "pyrrhus, romans, greeks": [
+        "roman_chunks/chunk_163.txt"
+    ],
+    "romans, battle, roman, armies": [
+        "roman_chunks/chunk_164.txt"
+    ],
+    "cineas, romans, pyrrhus, laev\u00ednus": [
+        "roman_chunks/chunk_165.txt"
+    ],
+    "cineas, rome, pyrrhus, epirus": [
+        "roman_chunks/chunk_166.txt"
+    ],
+    "cineas, claudius, romans, caecus, senate, rome": [
+        "roman_chunks/chunk_167.txt"
+    ],
+    "pyrrhus, gaius": [
+        "roman_chunks/chunk_168.txt"
+    ],
+    "pyrrhus, bribes": [
+        "roman_chunks/chunk_169.txt"
+    ],
+    "pyrrhus, pyrrhic, romans": [
+        "roman_chunks/chunk_170.txt"
+    ],
+    "pyrrhus, romans": [
+        "roman_chunks/chunk_171.txt"
+    ],
+    "pyrrhus": [
+        "roman_chunks/chunk_172.txt"
+    ],
+    "rome, roman": [
+        "roman_chunks/chunk_173.txt",
+        "roman_chunks/chunk_1118.txt"
+    ],
+    "rom\u00e1nus_, rome, rom\u00e1nus, districts, elections": [
+        "roman_chunks/chunk_174.txt"
+    ],
+    "districts, rome, praefect\u00farae, praefect, municipia, colonies, towns": [
+        "roman_chunks/chunk_175.txt"
+    ],
+    "rome, allies, roman": [
+        "roman_chunks/chunk_176.txt"
+    ],
+    "rights, citizens, rome": [
+        "roman_chunks/chunk_177.txt"
+    ],
+    "citizenship, roman, citizen, birth, born": [
+        "roman_chunks/chunk_178.txt"
+    ],
+    "slaves, citizens, roman, colonies, class": [
+        "roman_chunks/chunk_179.txt"
+    ],
+    "roads": [
+        "roman_chunks/chunk_180.txt"
+    ],
+    "rome, roman, roads": [
+        "roman_chunks/chunk_181.txt"
+    ],
+    "rome, hannibal": [
+        "roman_chunks/chunk_182.txt"
+    ],
+    "plebeians, freedmen": [
+        "roman_chunks/chunk_183.txt"
+    ],
+    "claudius, landowners, tribes": [
+        "roman_chunks/chunk_184.txt"
+    ],
+    "aqueduct, rome, appia, appius, appian": [
+        "roman_chunks/chunk_185.txt"
+    ],
+    "dent\u00e1tus, manius, plebeians, curius, conqueror, appius, pyrrhus": [
+        "roman_chunks/chunk_186.txt"
+    ],
+    "gaius, fabricius, pyrrhus": [
+        "roman_chunks/chunk_187.txt"
+    ],
+    "wealth, peasants, wealthy, roman, slaves": [
+        "roman_chunks/chunk_188.txt"
+    ],
+    "tarentum, romans, roman": [
+        "roman_chunks/chunk_189.txt"
+    ],
+    "carthaginians, carthage, punic, rome": [
+        "roman_chunks/chunk_190.txt"
+    ],
+    "carthage, carthaginian, rome, sicily, mediterranean": [
+        "roman_chunks/chunk_191.txt"
+    ],
+    "carthage, phoenician, revolt": [
+        "roman_chunks/chunk_192.txt"
+    ],
+    "carthage, africa, war": [
+        "roman_chunks/chunk_193.txt"
+    ],
+    "carthage, slaves": [
+        "roman_chunks/chunk_194.txt"
+    ],
+    "carthage, aristocracy, government": [
+        "roman_chunks/chunk_195.txt"
+    ],
+    "carthage, treaties": [
+        "roman_chunks/chunk_196.txt"
+    ],
+    "pyrrhus, carthage, sicily, rome": [
+        "roman_chunks/chunk_197.txt"
+    ],
+    "campania": [
+        "roman_chunks/chunk_198.txt",
+        "roman_chunks/chunk_753.txt"
+    ],
+    "mercenaries, sicily, mamertines": [
+        "roman_chunks/chunk_199.txt"
+    ],
+    "carthaginians, mess\u00e1na, hanno, truce": [
+        "roman_chunks/chunk_200.txt"
+    ],
+    "sicily, romans, punic, italy": [
+        "roman_chunks/chunk_201.txt"
+    ],
+    "sicily, carthaginians, hannibal, romans": [
+        "roman_chunks/chunk_202.txt"
+    ],
+    "carthaginians, infantry, agrigentum": [
+        "roman_chunks/chunk_203.txt"
+    ],
+    "carthage, romans, carthaginian": [
+        "roman_chunks/chunk_204.txt"
+    ],
+    "sail, carthaginian, vessel, navy, sea": [
+        "roman_chunks/chunk_205.txt"
+    ],
+    "ships, vessels": [
+        "roman_chunks/chunk_206.txt"
+    ],
+    "marines, roman": [
+        "roman_chunks/chunk_207.txt"
+    ],
+    "romans, naval, ships, fleet": [
+        "roman_chunks/chunk_208.txt"
+    ],
+    "carthaginians, hannibal, romans, roman, gaius": [
+        "roman_chunks/chunk_209.txt"
+    ],
+    "inscriptions, rome, duilius, inscribed": [
+        "roman_chunks/chunk_210.txt"
+    ],
+    "carthaginians, carthaginian, carthage, punic": [
+        "roman_chunks/chunk_211.txt"
+    ],
+    "carthaginians, roman, atilius": [
+        "roman_chunks/chunk_212.txt"
+    ],
+    "regulus": [
+        "roman_chunks/chunk_213.txt"
+    ],
+    "sail, ships, carthaginian, fleet, romans": [
+        "roman_chunks/chunk_214.txt"
+    ],
+    "panormus, africa": [
+        "roman_chunks/chunk_215.txt"
+    ],
+    "sicily, carthage, carthaginians": [
+        "roman_chunks/chunk_216.txt"
+    ],
+    "carthaginian, claudius, consul, publius": [
+        "roman_chunks/chunk_217.txt"
+    ],
+    "romans, sicily": [
+        "roman_chunks/chunk_218.txt"
+    ],
+    "carthaginian, sicily, romans, barca": [
+        "roman_chunks/chunk_219.txt"
+    ],
+    "carthage, carthaginian, punic": [
+        "roman_chunks/chunk_220.txt"
+    ],
+    "carthage, carthaginians, punic": [
+        "roman_chunks/chunk_221.txt"
+    ],
+    "sicily, sardinia, corsica, rome, consuls, romans": [
+        "roman_chunks/chunk_222.txt"
+    ],
+    "praetors, governor, proconsul, roman": [
+        "roman_chunks/chunk_223.txt"
+    ],
+    "provinces, romans, rome": [
+        "roman_chunks/chunk_224.txt"
+    ],
+    "adriatic, sea": [
+        "roman_chunks/chunk_225.txt"
+    ],
+    "illyrican": [
+        "roman_chunks/chunk_226.txt"
+    ],
+    "romans, athens, greek, achaeans, isthmian": [
+        "roman_chunks/chunk_227.txt"
+    ],
+    "romans, gaius, gauls, flaminius, sicily": [
+        "roman_chunks/chunk_228.txt"
+    ],
+    "sicily, gauls, agrarian": [
+        "roman_chunks/chunk_229.txt"
+    ],
+    "rome, roman, etruria, claudius, gallic": [
+        "roman_chunks/chunk_230.txt"
+    ],
+    "gauls, colonies": [
+        "roman_chunks/chunk_231.txt"
+    ],
+    "carthage, barca, spain, hamilcar, sardinia": [
+        "roman_chunks/chunk_232.txt"
+    ],
+    "hannibal, hasdrubal, carthago": [
+        "roman_chunks/chunk_233.txt"
+    ],
+    "cavalry, soldier, bravery": [
+        "roman_chunks/chunk_234.txt"
+    ],
+    "carthage, hannibal, punic, carthaginians": [
+        "roman_chunks/chunk_235.txt"
+    ],
+    "hannibal, cavalry": [
+        "roman_chunks/chunk_236.txt",
+        "roman_chunks/chunk_244.txt"
+    ],
+    "narbonne, nemansus, narbo, rhone": [
+        "roman_chunks/chunk_237.txt"
+    ],
+    "hannibal, scipio": [
+        "roman_chunks/chunk_238.txt"
+    ],
+    "hannibal": [
+        "roman_chunks/chunk_239.txt",
+        "roman_chunks/chunk_242.txt",
+        "roman_chunks/chunk_252.txt",
+        "roman_chunks/chunk_262.txt",
+        "roman_chunks/chunk_270.txt",
+        "roman_chunks/chunk_298.txt"
+    ],
+    "celts, scipio, celtic": [
+        "roman_chunks/chunk_240.txt"
+    ],
+    "hannibal, pisae": [
+        "roman_chunks/chunk_241.txt"
+    ],
+    "celts, bernard": [
+        "roman_chunks/chunk_243.txt"
+    ],
+    "hannibal, romans, gauls, gnaeus, sicily": [
+        "roman_chunks/chunk_245.txt"
+    ],
+    "hannibal, romans, cornelius, publius": [
+        "roman_chunks/chunk_246.txt"
+    ],
+    "hannibal, retreated, sempronius": [
+        "roman_chunks/chunk_247.txt"
+    ],
+    "hannibal, carthaginians, retreating": [
+        "roman_chunks/chunk_248.txt"
+    ],
+    "sempronius, rome, escaped, cremona": [
+        "roman_chunks/chunk_249.txt"
+    ],
+    "carthaginian, hannibal, cavalry, romans": [
+        "roman_chunks/chunk_250.txt"
+    ],
+    "ariminum, placentia, troops": [
+        "roman_chunks/chunk_251.txt"
+    ],
+    "hannibal, hill, infantry": [
+        "roman_chunks/chunk_253.txt"
+    ],
+    "('romans', 0.3381), ('hannibal', 0.3072)": [
+        "roman_chunks/chunk_254.txt"
+    ],
+    "romans, carthaginians, hannibal, rome, fabius": [
+        "roman_chunks/chunk_255.txt"
+    ],
+    "hannibal, rome": [
+        "roman_chunks/chunk_256.txt"
+    ],
+    "fabius, romans, dictator": [
+        "roman_chunks/chunk_257.txt"
+    ],
+    "hannibal, rome, fabius": [
+        "roman_chunks/chunk_258.txt"
+    ],
+    "capua, adriatic, fabius": [
+        "roman_chunks/chunk_259.txt"
+    ],
+    "hannibal, marched, marching": [
+        "roman_chunks/chunk_260.txt"
+    ],
+    "fabius, romans": [
+        "roman_chunks/chunk_261.txt"
+    ],
+    "fabius, cunctator, hannibal": [
+        "roman_chunks/chunk_263.txt"
+    ],
+    "hannibal, fabius, marcus": [
+        "roman_chunks/chunk_264.txt"
+    ],
+    "hannibal, cavalry, romans": [
+        "roman_chunks/chunk_265.txt"
+    ],
+    "romans, cannae, consuls, cavalry": [
+        "roman_chunks/chunk_266.txt"
+    ],
+    "carthaginians, romans": [
+        "roman_chunks/chunk_267.txt"
+    ],
+    "hannibal, romans, senatorial": [
+        "roman_chunks/chunk_268.txt"
+    ],
+    "punic, rome, battle, war": [
+        "roman_chunks/chunk_269.txt"
+    ],
+    "rome, romans, sicily, carthage": [
+        "roman_chunks/chunk_271.txt"
+    ],
+    "hannibal, carthage": [
+        "roman_chunks/chunk_272.txt",
+        "roman_chunks/chunk_293.txt",
+        "roman_chunks/chunk_297.txt"
+    ],
+    "romans, hannibal": [
+        "roman_chunks/chunk_273.txt"
+    ],
+    "carthaginians, rome, hannibal, romans, campania": [
+        "roman_chunks/chunk_274.txt"
+    ],
+    "retreated, marched, rome": [
+        "roman_chunks/chunk_275.txt"
+    ],
+    "capua, rome": [
+        "roman_chunks/chunk_276.txt"
+    ],
+    "sicily, rome, graecia": [
+        "roman_chunks/chunk_277.txt"
+    ],
+    "hiero, sicily, tyrant, assassinated, hieronymus, rome": [
+        "roman_chunks/chunk_278.txt"
+    ],
+    "rome, sicily, carthaginian, syracusans": [
+        "roman_chunks/chunk_279.txt"
+    ],
+    "mathematician, archim\u00e9des, mathematics, discovered": [
+        "roman_chunks/chunk_280.txt"
+    ],
+    "syracuse, romans": [
+        "roman_chunks/chunk_281.txt"
+    ],
+    "rome, sicily, marcellus, roman": [
+        "roman_chunks/chunk_282.txt"
+    ],
+    "spain, campaigns": [
+        "roman_chunks/chunk_283.txt"
+    ],
+    "carthaginians, scipio, scipios, rome, publius": [
+        "roman_chunks/chunk_284.txt"
+    ],
+    "carthaginians, hannibal, rome, publius": [
+        "roman_chunks/chunk_285.txt"
+    ],
+    "scipio, carthaginian, romans, hannibal, generals": [
+        "roman_chunks/chunk_286.txt"
+    ],
+    "hannibal, hasdrubal, carthaginian": [
+        "roman_chunks/chunk_287.txt"
+    ],
+    "carthaginians, battle, baecula, gadus, retreated": [
+        "roman_chunks/chunk_288.txt"
+    ],
+    "carthage, scipio, rome, roman, consulship": [
+        "roman_chunks/chunk_289.txt"
+    ],
+    "hasdrubal, claudius, hannibal, rome, gaius": [
+        "roman_chunks/chunk_290.txt"
+    ],
+    "carthaginian, metaurus": [
+        "roman_chunks/chunk_291.txt"
+    ],
+    "hannibal, slaughter, slain, hasdrubal": [
+        "roman_chunks/chunk_292.txt"
+    ],
+    "scipio, sicily": [
+        "roman_chunks/chunk_294.txt"
+    ],
+    "resisted": [
+        "roman_chunks/chunk_295.txt"
+    ],
+    "carthage, scipio, syphax, carthaginian": [
+        "roman_chunks/chunk_296.txt"
+    ],
+    "('carthage', 0.3487), ('zama', 0.3172)": [
+        "roman_chunks/chunk_299.txt"
+    ],
+    "roman, allies": [
+        "roman_chunks/chunk_300.txt"
+    ],
+    "rome, mediterranean, spain": [
+        "roman_chunks/chunk_301.txt",
+        "roman_chunks/chunk_375.txt"
+    ],
+    "scipio, rome, statue, africanus": [
+        "roman_chunks/chunk_302.txt"
+    ],
+    "rome, egypt, greece": [
+        "roman_chunks/chunk_303.txt"
+    ],
+    "macedonia, greece, mediterranean, syria": [
+        "roman_chunks/chunk_304.txt"
+    ],
+    "macedonia, greece": [
+        "roman_chunks/chunk_305.txt"
+    ],
+    "rome, ptolemy": [
+        "roman_chunks/chunk_306.txt"
+    ],
+    "greece": [
+        "roman_chunks/chunk_308.txt"
+    ],
+    "macedonian, rome": [
+        "roman_chunks/chunk_309.txt"
+    ],
+    "romans, laevinus": [
+        "roman_chunks/chunk_310.txt"
+    ],
+    "philip, zama": [
+        "roman_chunks/chunk_311.txt"
+    ],
+    "macedonian, philip": [
+        "roman_chunks/chunk_312.txt"
+    ],
+    "philip, rome": [
+        "roman_chunks/chunk_313.txt"
+    ],
+    "adriatic, consul, quinctius": [
+        "roman_chunks/chunk_314.txt"
+    ],
+    "achaeans, legions, corinth": [
+        "roman_chunks/chunk_315.txt"
+    ],
+    "macedonia, philip, carthage": [
+        "roman_chunks/chunk_316.txt"
+    ],
+    "greeks, flamininus, greece": [
+        "roman_chunks/chunk_317.txt"
+    ],
+    "macedonian": [
+        "roman_chunks/chunk_318.txt"
+    ],
+    "antiochus": [
+        "roman_chunks/chunk_319.txt"
+    ],
+    "greece, flamininus": [
+        "roman_chunks/chunk_320.txt"
+    ],
+    "antiochus, carthage, hannibal": [
+        "roman_chunks/chunk_321.txt"
+    ],
+    "syrian, rome": [
+        "roman_chunks/chunk_322.txt"
+    ],
+    "antiochus, romans, roman, hannibal": [
+        "roman_chunks/chunk_323.txt"
+    ],
+    "lucius, antiochus, romans, consul, cornelius": [
+        "roman_chunks/chunk_324.txt"
+    ],
+    "hannibal, romans": [
+        "roman_chunks/chunk_325.txt",
+        "roman_chunks/chunk_334.txt"
+    ],
+    "manlius, gauls, scipio, galatia, gneius": [
+        "roman_chunks/chunk_326.txt"
+    ],
+    "galatians": [
+        "roman_chunks/chunk_327.txt"
+    ],
+    "rome, roman, greece": [
+        "roman_chunks/chunk_328.txt"
+    ],
+    "asiaticus, rome": [
+        "roman_chunks/chunk_329.txt"
+    ],
+    "zama, charges": [
+        "roman_chunks/chunk_330.txt"
+    ],
+    "hannibal, caesar, rome, perseus, africanus, gracchi": [
+        "roman_chunks/chunk_331.txt"
+    ],
+    "hannibal, antiochus, alexander, scipio": [
+        "roman_chunks/chunk_332.txt"
+    ],
+    "scipio, rome, greek": [
+        "roman_chunks/chunk_333.txt"
+    ],
+    "philopoemen, macedonia": [
+        "roman_chunks/chunk_335.txt"
+    ],
+    "philip, antiochus": [
+        "roman_chunks/chunk_336.txt"
+    ],
+    "macedonia, philip, perseus": [
+        "roman_chunks/chunk_337.txt"
+    ],
+    "antiochus, greeks": [
+        "roman_chunks/chunk_338.txt"
+    ],
+    "('rome', 0.3359), ('aemilius', 0.3351)": [
+        "roman_chunks/chunk_339.txt"
+    ],
+    "paullus, consul": [
+        "roman_chunks/chunk_340.txt"
+    ],
+    "perseus, consul": [
+        "roman_chunks/chunk_341.txt"
+    ],
+    "macedonia, paullus, greece, rome, perseus": [
+        "roman_chunks/chunk_342.txt"
+    ],
+    "paullus, fabius": [
+        "roman_chunks/chunk_343.txt"
+    ],
+    "conquered": [
+        "roman_chunks/chunk_344.txt",
+        "roman_chunks/chunk_1063.txt"
+    ],
+    "perseus, macedonia, rome": [
+        "roman_chunks/chunk_345.txt"
+    ],
+    "polybius, romans, carthage, rome": [
+        "roman_chunks/chunk_346.txt"
+    ],
+    "macedonia, greece, alliances, rome": [
+        "roman_chunks/chunk_347.txt"
+    ],
+    "macedonian, macedonia, macedonicus, perseus, rebelled, roman, rome": [
+        "roman_chunks/chunk_348.txt"
+    ],
+    "achaeans, metellus": [
+        "roman_chunks/chunk_349.txt"
+    ],
+    "metellus, rome, greece": [
+        "roman_chunks/chunk_350.txt"
+    ],
+    "carthage, punic, corinth": [
+        "roman_chunks/chunk_351.txt"
+    ],
+    "masinissa, carthage, rome": [
+        "roman_chunks/chunk_352.txt"
+    ],
+    "carthage, carthaginians": [
+        "roman_chunks/chunk_353.txt"
+    ],
+    "carthage, rome, cato": [
+        "roman_chunks/chunk_354.txt"
+    ],
+    "carthage, carthaginian, reparation, sicily": [
+        "roman_chunks/chunk_355.txt"
+    ],
+    "hostages, carthaginians, romans, consuls": [
+        "roman_chunks/chunk_356.txt"
+    ],
+    "carthage": [
+        "roman_chunks/chunk_357.txt",
+        "roman_chunks/chunk_361.txt"
+    ],
+    "romans": [
+        "roman_chunks/chunk_358.txt",
+        "roman_chunks/chunk_957.txt"
+    ],
+    "romans, carthaginians, despair": [
+        "roman_chunks/chunk_359.txt"
+    ],
+    "garrison, siege, publius, cornelius": [
+        "roman_chunks/chunk_360.txt"
+    ],
+    "masinissa": [
+        "roman_chunks/chunk_362.txt"
+    ],
+    "cato, elder, roman": [
+        "roman_chunks/chunk_363.txt"
+    ],
+    "treatise, principles, agriculture": [
+        "roman_chunks/chunk_364.txt"
+    ],
+    "cicero, rome, cato, afric\u00e1nus": [
+        "roman_chunks/chunk_365.txt"
+    ],
+    "africanus, spain": [
+        "roman_chunks/chunk_366.txt"
+    ],
+    "spain, celtib\u00e9ri, rebellion, cato": [
+        "roman_chunks/chunk_367.txt"
+    ],
+    "gracchus, tiberius, gracchi": [
+        "roman_chunks/chunk_368.txt"
+    ],
+    "warfare": [
+        "roman_chunks/chunk_369.txt"
+    ],
+    "('lucius', 0.3386), ('corduba', 0.3118)": [
+        "roman_chunks/chunk_370.txt"
+    ],
+    "celtib\u00e9ri, viri\u00e1thus, lusitanians, macedonicus, romans": [
+        "roman_chunks/chunk_371.txt"
+    ],
+    "consul, viri\u00e1thus": [
+        "roman_chunks/chunk_372.txt"
+    ],
+    "numantia, numantine, rome, celtib\u00e9ri": [
+        "roman_chunks/chunk_373.txt"
+    ],
+    "numant\u00ednus, surrendered": [
+        "roman_chunks/chunk_374.txt"
+    ],
+    "peninsula, sicily, cimbri, celtib\u00e9ri": [
+        "roman_chunks/chunk_377.txt"
+    ],
+    "slaves, slave, freemen, aristocracy, labor": [
+        "roman_chunks/chunk_378.txt"
+    ],
+    "sicily, slaves, eunus": [
+        "roman_chunks/chunk_379.txt"
+    ],
+    "plebeians, constitution, oligarchy": [
+        "roman_chunks/chunk_380.txt"
+    ],
+    "oligarchy, rome, senate, ruled": [
+        "roman_chunks/chunk_381.txt"
+    ],
+    "senate, convened": [
+        "roman_chunks/chunk_382.txt"
+    ],
+    "nobles, nobility, patricians, roman": [
+        "roman_chunks/chunk_383.txt"
+    ],
+    "funeral, processions": [
+        "roman_chunks/chunk_384.txt"
+    ],
+    "plebeian, senate, authority, magistrate": [
+        "roman_chunks/chunk_385.txt"
+    ],
+    "magistrate, tiberius, augustus, roman, antony, caesar, rome, marius": [
+        "roman_chunks/chunk_386.txt"
+    ],
+    "tiberius, gracchus, gaius, sempronius": [
+        "roman_chunks/chunk_387.txt"
+    ],
+    "tiberius": [
+        "roman_chunks/chunk_388.txt",
+        "roman_chunks/chunk_404.txt",
+        "roman_chunks/chunk_775.txt",
+        "roman_chunks/chunk_778.txt"
+    ],
+    "republic, citizens": [
+        "roman_chunks/chunk_389.txt"
+    ],
+    "tiberius, agrarian": [
+        "roman_chunks/chunk_390.txt"
+    ],
+    "tiberius, tribune, tribunes": [
+        "roman_chunks/chunk_391.txt"
+    ],
+    "gracchus, claudius, commissioners, agrarian": [
+        "roman_chunks/chunk_392.txt"
+    ],
+    "gracchus, tribune": [
+        "roman_chunks/chunk_393.txt"
+    ],
+    "gracchus, slain, tiberius": [
+        "roman_chunks/chunk_394.txt"
+    ],
+    "agrarian, patricians, commissioners": [
+        "roman_chunks/chunk_395.txt"
+    ],
+    "tiberius, gaius, gracchus": [
+        "roman_chunks/chunk_396.txt"
+    ],
+    "senate, roman, italians, enemy": [
+        "roman_chunks/chunk_397.txt"
+    ],
+    "juries, knights, judicial": [
+        "roman_chunks/chunk_398.txt"
+    ],
+    "gaius, roman": [
+        "roman_chunks/chunk_399.txt"
+    ],
+    "gaius, roman, riots": [
+        "roman_chunks/chunk_400.txt"
+    ],
+    "gracchi, peasants": [
+        "roman_chunks/chunk_401.txt"
+    ],
+    "tiberius, gracchus, afric\u00e1nus": [
+        "roman_chunks/chunk_402.txt"
+    ],
+    "afric\u00e1nus, polybius, carthage, terence, lucilius": [
+        "roman_chunks/chunk_403.txt"
+    ],
+    "pergamum, attalus, rome": [
+        "roman_chunks/chunk_405.txt"
+    ],
+    "attalus, rome": [
+        "roman_chunks/chunk_406.txt"
+    ],
+    "jugurtha, war": [
+        "roman_chunks/chunk_407.txt"
+    ],
+    "carthage, masinissa, micipsa, africa": [
+        "roman_chunks/chunk_408.txt"
+    ],
+    "jugurtha, micipsa, murdered": [
+        "roman_chunks/chunk_409.txt"
+    ],
+    "senate, jugurtha": [
+        "roman_chunks/chunk_410.txt"
+    ],
+    "memmius": [
+        "roman_chunks/chunk_411.txt"
+    ],
+    "gaius, romans, metellus, quintus, marius": [
+        "roman_chunks/chunk_412.txt"
+    ],
+    "marius": [
+        "roman_chunks/chunk_413.txt"
+    ],
+    "caesar, caesars, julius, julia": [
+        "roman_chunks/chunk_414.txt"
+    ],
+    "jugurtha, marius": [
+        "roman_chunks/chunk_415.txt"
+    ],
+    "lieutenant": [
+        "roman_chunks/chunk_416.txt"
+    ],
+    "metellus, numidicus, agnomen": [
+        "roman_chunks/chunk_417.txt"
+    ],
+    "marius, legions, jugurtha": [
+        "roman_chunks/chunk_418.txt"
+    ],
+    "jugurtha, sulla, marius": [
+        "roman_chunks/chunk_419.txt"
+    ],
+    "marius, caesar, jugurtha": [
+        "roman_chunks/chunk_420.txt"
+    ],
+    "barbarians, romans, rome, rhone": [
+        "roman_chunks/chunk_421.txt"
+    ],
+    "pyrenees, spain, mountains, overran": [
+        "roman_chunks/chunk_422.txt"
+    ],
+    "marius, gaul, rhone": [
+        "roman_chunks/chunk_423.txt"
+    ],
+    "consulship": [
+        "roman_chunks/chunk_424.txt"
+    ],
+    "barbarians, gaul, cimbri": [
+        "roman_chunks/chunk_425.txt"
+    ],
+    "marius, teutones, legionaries": [
+        "roman_chunks/chunk_426.txt"
+    ],
+    "marius, consul": [
+        "roman_chunks/chunk_427.txt"
+    ],
+    "cimbri, marius": [
+        "roman_chunks/chunk_428.txt"
+    ],
+    "marius, gaul, rome, roman": [
+        "roman_chunks/chunk_429.txt"
+    ],
+    "cimbrians, gaul, roman, marius, cisalpine": [
+        "roman_chunks/chunk_430.txt"
+    ],
+    "marius, politician": [
+        "roman_chunks/chunk_431.txt"
+    ],
+    "senate, saturn\u00ednus": [
+        "roman_chunks/chunk_432.txt"
+    ],
+    "marius, metellus, saturn\u00ednus, pontus, mithrad\u00e1tes": [
+        "roman_chunks/chunk_433.txt"
+    ],
+    "rome, comparative": [
+        "roman_chunks/chunk_434.txt"
+    ],
+    "senate, provinces, war": [
+        "roman_chunks/chunk_435.txt"
+    ],
+    "senators, consul": [
+        "roman_chunks/chunk_436.txt"
+    ],
+    "wealthy, senator, senate, tribune": [
+        "roman_chunks/chunk_437.txt"
+    ],
+    "centuries, roman": [
+        "roman_chunks/chunk_438.txt"
+    ],
+    "plebeians, aristocracy, cavalry": [
+        "roman_chunks/chunk_439.txt"
+    ],
+    "judicaria_, jurors, judices": [
+        "roman_chunks/chunk_440.txt"
+    ],
+    "jurors, provinces": [
+        "roman_chunks/chunk_441.txt"
+    ],
+    "rome, romans, roman": [
+        "roman_chunks/chunk_442.txt"
+    ],
+    "drusus, roman, livius, marcus, reform": [
+        "roman_chunks/chunk_443.txt"
+    ],
+    "corfinium, italians, drusus": [
+        "roman_chunks/chunk_444.txt"
+    ],
+    "romans, war, rome, allies": [
+        "roman_chunks/chunk_445.txt"
+    ],
+    "roman, caesar, rome": [
+        "roman_chunks/chunk_446.txt"
+    ],
+    "marius, roman, praetor, rome, lucanians": [
+        "roman_chunks/chunk_447.txt"
+    ],
+    "rome, war": [
+        "roman_chunks/chunk_448.txt"
+    ],
+    "publius, mithrad\u00e1tes, marius, rufus": [
+        "roman_chunks/chunk_449.txt"
+    ],
+    "sulpicius, sulla, rome, legions, marius": [
+        "roman_chunks/chunk_450.txt"
+    ],
+    "marius, lucius": [
+        "roman_chunks/chunk_451.txt"
+    ],
+    "marius, sulla": [
+        "roman_chunks/chunk_452.txt",
+        "roman_chunks/chunk_456.txt"
+    ],
+    "marius, jugurtha, sulla": [
+        "roman_chunks/chunk_453.txt"
+    ],
+    "sulla, mithrad\u00e1tes": [
+        "roman_chunks/chunk_454.txt"
+    ],
+    "cappadocia, pontus, rome, roman": [
+        "roman_chunks/chunk_455.txt"
+    ],
+    "bithynia": [
+        "roman_chunks/chunk_457.txt"
+    ],
+    "mithrad\u00e1tes, massacred": [
+        "roman_chunks/chunk_458.txt"
+    ],
+    "legions, marius, sulpicius, sulla": [
+        "roman_chunks/chunk_459.txt"
+    ],
+    "marius, sulpicius, fled": [
+        "roman_chunks/chunk_460.txt"
+    ],
+    "sulla": [
+        "roman_chunks/chunk_461.txt",
+        "roman_chunks/chunk_467.txt",
+        "roman_chunks/chunk_469.txt",
+        "roman_chunks/chunk_470.txt"
+    ],
+    "marius, lucius, cornelius, deposed, rome": [
+        "roman_chunks/chunk_462.txt"
+    ],
+    "marius, rome, captured, cinna, consul, marched, outlawry": [
+        "roman_chunks/chunk_463.txt"
+    ],
+    "marius, slaves, consul": [
+        "roman_chunks/chunk_464.txt"
+    ],
+    "cinna, ruled, rome": [
+        "roman_chunks/chunk_465.txt"
+    ],
+    "sulla, athens": [
+        "roman_chunks/chunk_466.txt"
+    ],
+    "sulla, romans, punished, lydians, rome": [
+        "roman_chunks/chunk_468.txt"
+    ],
+    "sulla, marian, infamous, rome, murders": [
+        "roman_chunks/chunk_471.txt"
+    ],
+    "dictator, sulla, puteoli, mithrad\u00e1tic, dictatorship": [
+        "roman_chunks/chunk_472.txt"
+    ],
+    "quaestors, quaestor, praetors, praetorship, praetor, sulla, consuls, consul": [
+        "roman_chunks/chunk_473.txt"
+    ],
+    "rome, consuls, quaestors, praetors": [
+        "roman_chunks/chunk_474.txt"
+    ],
+    "senate, senators, equites": [
+        "roman_chunks/chunk_475.txt"
+    ],
+    "lepidus, gaul, consuls": [
+        "roman_chunks/chunk_476.txt"
+    ],
+    "spartacus, sertorius, lucullus, crassus, pompey, chapter": [
+        "roman_chunks/chunk_477.txt"
+    ],
+    "quintus, marius, sertorius, gaul, sulla": [
+        "roman_chunks/chunk_478.txt"
+    ],
+    "pius": [
+        "roman_chunks/chunk_479.txt"
+    ],
+    "banishment": [
+        "roman_chunks/chunk_480.txt"
+    ],
+    "sertorius": [
+        "roman_chunks/chunk_481.txt"
+    ],
+    "sertorius, metellus, generals": [
+        "roman_chunks/chunk_482.txt"
+    ],
+    "sertorius, romans": [
+        "roman_chunks/chunk_483.txt"
+    ],
+    "gladiators, spartacus, vesuvius, praetors": [
+        "roman_chunks/chunk_484.txt"
+    ],
+    "spartacus, generals": [
+        "roman_chunks/chunk_485.txt"
+    ],
+    "spartacus, crassus": [
+        "roman_chunks/chunk_486.txt"
+    ],
+    "mithrad\u00e1tes, lucius, licinius, lucullus": [
+        "roman_chunks/chunk_487.txt"
+    ],
+    "lucullus, mithrad\u00e1tes": [
+        "roman_chunks/chunk_488.txt"
+    ],
+    "lucullus, pontus": [
+        "roman_chunks/chunk_489.txt"
+    ],
+    "lucullus": [
+        "roman_chunks/chunk_490.txt",
+        "roman_chunks/chunk_492.txt"
+    ],
+    "sullan, sulla, pompey": [
+        "roman_chunks/chunk_493.txt"
+    ],
+    "marius, magnus, pompeius, gneius": [
+        "roman_chunks/chunk_494.txt"
+    ],
+    "consuls, magnus, sulla": [
+        "roman_chunks/chunk_495.txt"
+    ],
+    "crassus, spartacus, consulship": [
+        "roman_chunks/chunk_496.txt"
+    ],
+    "veto, senate, sulla": [
+        "roman_chunks/chunk_497.txt"
+    ],
+    "pompey, marauders": [
+        "roman_chunks/chunk_498.txt"
+    ],
+    "mediterranean": [
+        "roman_chunks/chunk_499.txt"
+    ],
+    "pompey, gabinius, pirates": [
+        "roman_chunks/chunk_500.txt"
+    ],
+    "manilius, pompey, manilia_, cicero, manilian": [
+        "roman_chunks/chunk_501.txt"
+    ],
+    "mithrad\u00e1tes, lucullus": [
+        "roman_chunks/chunk_502.txt"
+    ],
+    "pompey, hyrc\u00e1nus": [
+        "roman_chunks/chunk_503.txt"
+    ],
+    "mithrad\u00e1tes, roman, pontus": [
+        "roman_chunks/chunk_504.txt"
+    ],
+    "provinces, crete, cilicia, asia, bithynia": [
+        "roman_chunks/chunk_505.txt"
+    ],
+    "pompey, caesar, rome": [
+        "roman_chunks/chunk_506.txt"
+    ],
+    "cicero, caesar, rome, pompey": [
+        "roman_chunks/chunk_507.txt"
+    ],
+    "caesar, caesars, julius, gaius, aen\u00e9as": [
+        "roman_chunks/chunk_508.txt"
+    ],
+    "gaius, caesar, julius, marius, julia": [
+        "roman_chunks/chunk_509.txt"
+    ],
+    "caesar, cicero, marius, consulship": [
+        "roman_chunks/chunk_510.txt"
+    ],
+    "marius, caesar, cornelia": [
+        "roman_chunks/chunk_511.txt"
+    ],
+    "caesar, sulla": [
+        "roman_chunks/chunk_512.txt"
+    ],
+    "priesthood, marius": [
+        "roman_chunks/chunk_513.txt"
+    ],
+    "caesar, praetor": [
+        "roman_chunks/chunk_514.txt"
+    ],
+    "wreath, bravery, honor, mityl\u00e9ne, oak": [
+        "roman_chunks/chunk_515.txt"
+    ],
+    "caesar, dolabella, sulla, cilicia": [
+        "roman_chunks/chunk_516.txt"
+    ],
+    "caesar": [
+        "roman_chunks/chunk_517.txt",
+        "roman_chunks/chunk_527.txt",
+        "roman_chunks/chunk_550.txt",
+        "roman_chunks/chunk_620.txt",
+        "roman_chunks/chunk_635.txt",
+        "roman_chunks/chunk_645.txt",
+        "roman_chunks/chunk_647.txt",
+        "roman_chunks/chunk_670.txt",
+        "roman_chunks/chunk_698.txt",
+        "roman_chunks/chunk_1042.txt"
+    ],
+    "mithrad\u00e1tes, pergamus": [
+        "roman_chunks/chunk_518.txt"
+    ],
+    "caesar, cicero, rome": [
+        "roman_chunks/chunk_519.txt"
+    ],
+    "cicero, marius, tullius, marcus, caesar": [
+        "roman_chunks/chunk_520.txt"
+    ],
+    "cicero, roscius": [
+        "roman_chunks/chunk_521.txt"
+    ],
+    "sicily, roman": [
+        "roman_chunks/chunk_522.txt"
+    ],
+    "verres, sicily": [
+        "roman_chunks/chunk_523.txt"
+    ],
+    "proconsuls, cicero, provinces, verres, prosecution": [
+        "roman_chunks/chunk_524.txt"
+    ],
+    "verres, cicero": [
+        "roman_chunks/chunk_525.txt"
+    ],
+    "cicero, exile": [
+        "roman_chunks/chunk_526.txt"
+    ],
+    "caesar, pompeia, pompey": [
+        "roman_chunks/chunk_528.txt"
+    ],
+    "marius, sertorius": [
+        "roman_chunks/chunk_529.txt"
+    ],
+    "rome, catiline, conspiracy": [
+        "roman_chunks/chunk_530.txt"
+    ],
+    "sulla, pompey": [
+        "roman_chunks/chunk_531.txt"
+    ],
+    "lucius, consulship, cicero, sergius, governor": [
+        "roman_chunks/chunk_532.txt"
+    ],
+    "cicero, antony, antonius": [
+        "roman_chunks/chunk_533.txt"
+    ],
+    "caesar, diosc\u00fari": [
+        "roman_chunks/chunk_534.txt"
+    ],
+    "pius, caesar, maximus": [
+        "roman_chunks/chunk_535.txt"
+    ],
+    "cicero, consul, lentulus, consulship": [
+        "roman_chunks/chunk_536.txt"
+    ],
+    "faesulae, manlius, sulla": [
+        "roman_chunks/chunk_537.txt"
+    ],
+    "cicero, meetings": [
+        "roman_chunks/chunk_538.txt"
+    ],
+    "catiline, lentulus": [
+        "roman_chunks/chunk_539.txt"
+    ],
+    "cicero, caesar, senate": [
+        "roman_chunks/chunk_540.txt"
+    ],
+    "cicero, caesar, cato": [
+        "roman_chunks/chunk_541.txt"
+    ],
+    "state, fears, purity, overcome": [
+        "roman_chunks/chunk_542.txt"
+    ],
+    "cicero, caesar, statesman": [
+        "roman_chunks/chunk_543.txt"
+    ],
+    "cicero": [
+        "roman_chunks/chunk_544.txt",
+        "roman_chunks/chunk_725.txt"
+    ],
+    "caesar, cicero, pompey": [
+        "roman_chunks/chunk_545.txt"
+    ],
+    "cicero, roman": [
+        "roman_chunks/chunk_546.txt",
+        "roman_chunks/chunk_564.txt"
+    ],
+    "caesar, metellus": [
+        "roman_chunks/chunk_547.txt"
+    ],
+    "caesar, metellus, deposed, senate, lawlessness": [
+        "roman_chunks/chunk_548.txt"
+    ],
+    "senate, refused, lawlessness": [
+        "roman_chunks/chunk_549.txt"
+    ],
+    "consulship, administration": [
+        "roman_chunks/chunk_551.txt"
+    ],
+    "pompey": [
+        "roman_chunks/chunk_552.txt",
+        "roman_chunks/chunk_664.txt"
+    ],
+    "caesar, pompey": [
+        "roman_chunks/chunk_553.txt",
+        "roman_chunks/chunk_628.txt",
+        "roman_chunks/chunk_648.txt",
+        "roman_chunks/chunk_656.txt"
+    ],
+    "caesar, triumvirate, rome, crassus, richest": [
+        "roman_chunks/chunk_554.txt"
+    ],
+    "triumvirate, caesar, pompey": [
+        "roman_chunks/chunk_555.txt"
+    ],
+    "caesar, aristocracy": [
+        "roman_chunks/chunk_556.txt"
+    ],
+    "cicero, caesar, orator": [
+        "roman_chunks/chunk_557.txt"
+    ],
+    "caesar, consulship": [
+        "roman_chunks/chunk_558.txt",
+        "roman_chunks/chunk_619.txt"
+    ],
+    "vetoed, senate": [
+        "roman_chunks/chunk_559.txt"
+    ],
+    "juliae, caesar, leges": [
+        "roman_chunks/chunk_560.txt"
+    ],
+    "caesar, gaul": [
+        "roman_chunks/chunk_561.txt",
+        "roman_chunks/chunk_567.txt",
+        "roman_chunks/chunk_610.txt"
+    ],
+    "cicero, caesar, rome": [
+        "roman_chunks/chunk_562.txt"
+    ],
+    "clodius, cicero, plebeian, pulcher": [
+        "roman_chunks/chunk_563.txt"
+    ],
+    "cyprus, ptolemy": [
+        "roman_chunks/chunk_565.txt"
+    ],
+    "clodius, caesar, cicero, roman": [
+        "roman_chunks/chunk_566.txt"
+    ],
+    "gaul, romans": [
+        "roman_chunks/chunk_568.txt"
+    ],
+    "basques, aquit\u00e1ni": [
+        "roman_chunks/chunk_569.txt"
+    ],
+    "gauls, tribes, romans": [
+        "roman_chunks/chunk_570.txt"
+    ],
+    "gaul, sequanians, aeduans, germans, roman, conquered, rome, sequani": [
+        "roman_chunks/chunk_571.txt"
+    ],
+    "helvetians, switzerland, gaul, helvetii, sequanians": [
+        "roman_chunks/chunk_572.txt"
+    ],
+    "gaul, helvetians, caesar": [
+        "roman_chunks/chunk_573.txt"
+    ],
+    "ariovistus, caesar, barbarians": [
+        "roman_chunks/chunk_574.txt"
+    ],
+    "legions, rome, gaul, labi\u00e9nus, caesar": [
+        "roman_chunks/chunk_575.txt"
+    ],
+    "romans, gaul, caesar, belgae": [
+        "roman_chunks/chunk_576.txt"
+    ],
+    "caesar, legions, gaul": [
+        "roman_chunks/chunk_577.txt"
+    ],
+    "legions, nervii": [
+        "roman_chunks/chunk_578.txt"
+    ],
+    "caesar, romans, nervii": [
+        "roman_chunks/chunk_579.txt"
+    ],
+    "caesar, bravery": [
+        "roman_chunks/chunk_580.txt"
+    ],
+    "nervii, legions, aduatuci, caesar, conquered": [
+        "roman_chunks/chunk_581.txt"
+    ],
+    "gaul, roman": [
+        "roman_chunks/chunk_582.txt"
+    ],
+    "veneti, roman, slavery": [
+        "roman_chunks/chunk_583.txt"
+    ],
+    "legions, gaul": [
+        "roman_chunks/chunk_584.txt"
+    ],
+    "gaul, caesar": [
+        "roman_chunks/chunk_585.txt",
+        "roman_chunks/chunk_597.txt"
+    ],
+    "germans": [
+        "roman_chunks/chunk_586.txt"
+    ],
+    "caesar, romans, gaul, bridge, cross": [
+        "roman_chunks/chunk_587.txt"
+    ],
+    "caesar, gaul, invasion": [
+        "roman_chunks/chunk_588.txt"
+    ],
+    "caesar, gauls": [
+        "roman_chunks/chunk_589.txt"
+    ],
+    "legions, legion, ebur\u00f3nes": [
+        "roman_chunks/chunk_590.txt"
+    ],
+    "cicero, nervii, caesar, quintus, gaul": [
+        "roman_chunks/chunk_591.txt"
+    ],
+    "caesar, gaul, gauls": [
+        "roman_chunks/chunk_592.txt"
+    ],
+    "gauls, roman, genabum": [
+        "roman_chunks/chunk_593.txt"
+    ],
+    "caesar, legions, alps": [
+        "roman_chunks/chunk_594.txt"
+    ],
+    "vercingetorix": [
+        "roman_chunks/chunk_595.txt"
+    ],
+    "caesar, gaul, romans": [
+        "roman_chunks/chunk_596.txt"
+    ],
+    "vercingetorix, gaul, gauls, caesar": [
+        "roman_chunks/chunk_598.txt"
+    ],
+    "fail": [
+        "roman_chunks/chunk_599.txt"
+    ],
+    "vercingetorix, gaul, rome, caesar": [
+        "roman_chunks/chunk_600.txt"
+    ],
+    "gaul, caesar, roman, latin": [
+        "roman_chunks/chunk_601.txt"
+    ],
+    "clodius, crassus, caesar, gaul, rome": [
+        "roman_chunks/chunk_602.txt"
+    ],
+    "clodius, roman": [
+        "roman_chunks/chunk_603.txt"
+    ],
+    "clodius, milo": [
+        "roman_chunks/chunk_604.txt"
+    ],
+    "cicero, recall, convened, clodius": [
+        "roman_chunks/chunk_605.txt"
+    ],
+    "cicero, clodius, rome, palatine": [
+        "roman_chunks/chunk_606.txt"
+    ],
+    "cicero, palatine, murdered": [
+        "roman_chunks/chunk_607.txt"
+    ],
+    "clodius, consul": [
+        "roman_chunks/chunk_608.txt"
+    ],
+    "cicero, exile, speech": [
+        "roman_chunks/chunk_609.txt"
+    ],
+    "legions, cassius, crassus, romans": [
+        "roman_chunks/chunk_611.txt"
+    ],
+    "mesopotamia, seleucia, crassus, carrhae, arab": [
+        "roman_chunks/chunk_612.txt"
+    ],
+    "('cassius', 0.3343), ('crassus', 0.3317)": [
+        "roman_chunks/chunk_613.txt"
+    ],
+    "cassius, crassus, roman": [
+        "roman_chunks/chunk_614.txt"
+    ],
+    "caesar, romans, triumvirate": [
+        "roman_chunks/chunk_615.txt"
+    ],
+    "pompey, caesar, consul": [
+        "roman_chunks/chunk_616.txt"
+    ],
+    "caesar, gaul, barbarians": [
+        "roman_chunks/chunk_617.txt"
+    ],
+    "('thanksgiving', 0.3425), ('nobility', 0.3234)": [
+        "roman_chunks/chunk_618.txt"
+    ],
+    "caesar, senate": [
+        "roman_chunks/chunk_621.txt"
+    ],
+    "('asia', 0.3041), ('rome', 0.2984)": [
+        "roman_chunks/chunk_622.txt"
+    ],
+    "rome, consuls": [
+        "roman_chunks/chunk_623.txt"
+    ],
+    "caesar, resign, ravenna": [
+        "roman_chunks/chunk_624.txt"
+    ],
+    "gaul, senate, caesar": [
+        "roman_chunks/chunk_625.txt"
+    ],
+    "legions, caesar, labienus": [
+        "roman_chunks/chunk_626.txt"
+    ],
+    "fled, pompey": [
+        "roman_chunks/chunk_627.txt"
+    ],
+    "caesar, ariminum": [
+        "roman_chunks/chunk_629.txt"
+    ],
+    "caesar, antony": [
+        "roman_chunks/chunk_630.txt"
+    ],
+    "corfinium, caesar": [
+        "roman_chunks/chunk_631.txt"
+    ],
+    "pompey, blockade, port, caesar": [
+        "roman_chunks/chunk_632.txt"
+    ],
+    "pompey, caesar, consuls": [
+        "roman_chunks/chunk_633.txt"
+    ],
+    "caesar, cicero, rome, senate, cassius": [
+        "roman_chunks/chunk_634.txt"
+    ],
+    "gaul": [
+        "roman_chunks/chunk_636.txt"
+    ],
+    "sardinia, sicily, caesar, legions, rome": [
+        "roman_chunks/chunk_637.txt"
+    ],
+    "caesar, brutus, massilia": [
+        "roman_chunks/chunk_638.txt"
+    ],
+    "varro, spain, surrender": [
+        "roman_chunks/chunk_639.txt"
+    ],
+    "caesar, romans, cordova": [
+        "roman_chunks/chunk_640.txt"
+    ],
+    "caesar, rome, gaul": [
+        "roman_chunks/chunk_641.txt"
+    ],
+    "caesar, rome": [
+        "roman_chunks/chunk_642.txt"
+    ],
+    "caesar, debts, rome": [
+        "roman_chunks/chunk_643.txt"
+    ],
+    "caesar, legions, pompey, cicero, cavalry, rome": [
+        "roman_chunks/chunk_644.txt"
+    ],
+    "pompey, voyage, apollonia": [
+        "roman_chunks/chunk_646.txt"
+    ],
+    "siege, general, pompey": [
+        "roman_chunks/chunk_649.txt"
+    ],
+    "pompey, caesar, troops, soldiers": [
+        "roman_chunks/chunk_650.txt"
+    ],
+    "caesar, pompey, victory": [
+        "roman_chunks/chunk_651.txt"
+    ],
+    "pompey, epirus, cicero": [
+        "roman_chunks/chunk_652.txt"
+    ],
+    "phars\u00e1lus, armies, battle, encamped": [
+        "roman_chunks/chunk_653.txt"
+    ],
+    "pharsalia, battle": [
+        "roman_chunks/chunk_654.txt"
+    ],
+    "pharsalia": [
+        "roman_chunks/chunk_655.txt"
+    ],
+    "legions, pompey, senate, cavalry, caesar, legion, senatorial": [
+        "roman_chunks/chunk_657.txt"
+    ],
+    "caesar, pompeians": [
+        "roman_chunks/chunk_658.txt",
+        "roman_chunks/chunk_659.txt"
+    ],
+    "caesar, rout": [
+        "roman_chunks/chunk_660.txt"
+    ],
+    "('caesar', 0.3428), ('patricians', 0.3362)": [
+        "roman_chunks/chunk_661.txt"
+    ],
+    "caesar, surrendered": [
+        "roman_chunks/chunk_662.txt"
+    ],
+    "caesar, pompey, ptolemy": [
+        "roman_chunks/chunk_663.txt"
+    ],
+    "caesar, statesman": [
+        "roman_chunks/chunk_665.txt"
+    ],
+    "cleop\u00e1tra, caesar, alexandr\u00eda, ptolemy, egypt": [
+        "roman_chunks/chunk_666.txt"
+    ],
+    "cleop\u00e1tra, alexandrians": [
+        "roman_chunks/chunk_667.txt"
+    ],
+    "caesar, conquered, pontus, rome, revolt, vengeance, pharnaces": [
+        "roman_chunks/chunk_668.txt"
+    ],
+    "pontus, dictator": [
+        "roman_chunks/chunk_669.txt"
+    ],
+    "legion, soldiers": [
+        "roman_chunks/chunk_671.txt"
+    ],
+    "soldier": [
+        "roman_chunks/chunk_672.txt"
+    ],
+    "pompeius, africa, juba": [
+        "roman_chunks/chunk_673.txt"
+    ],
+    "utica, legions, caesar, cicero, sicily, sardinia, cato, pompeian": [
+        "roman_chunks/chunk_674.txt"
+    ],
+    "caesar, juba, roman": [
+        "roman_chunks/chunk_675.txt"
+    ],
+    "carthage, caesar": [
+        "roman_chunks/chunk_676.txt"
+    ],
+    "labi\u00e9nus, petreius, fled": [
+        "roman_chunks/chunk_677.txt"
+    ],
+    "cato": [
+        "roman_chunks/chunk_678.txt"
+    ],
+    "caesar, celebrated": [
+        "roman_chunks/chunk_679.txt"
+    ],
+    "circus, theatre, gladiators, shows": [
+        "roman_chunks/chunk_680.txt"
+    ],
+    "caesar, julius, roman, decreed": [
+        "roman_chunks/chunk_681.txt"
+    ],
+    "maximus": [
+        "roman_chunks/chunk_682.txt"
+    ],
+    "calendar, caesar": [
+        "roman_chunks/chunk_683.txt"
+    ],
+    "caesar, sosigenes, senate": [
+        "roman_chunks/chunk_684.txt"
+    ],
+    "labi\u00e9nus, aemilius": [
+        "roman_chunks/chunk_685.txt"
+    ],
+    "legions, army": [
+        "roman_chunks/chunk_686.txt"
+    ],
+    "caesar, brutus, guadalquivir": [
+        "roman_chunks/chunk_687.txt"
+    ],
+    "caesar, labi\u00e9nus, roman, battle, legion": [
+        "roman_chunks/chunk_688.txt"
+    ],
+    "gnaeus, caesar, sextus, rome": [
+        "roman_chunks/chunk_689.txt"
+    ],
+    "portius, cato, uticensis": [
+        "roman_chunks/chunk_690.txt"
+    ],
+    "('rome', 0.3435), ('praetor', 0.3235)": [
+        "roman_chunks/chunk_691.txt"
+    ],
+    "caesar, pius, quintus, metelli, scipios, caecilius": [
+        "roman_chunks/chunk_692.txt"
+    ],
+    "caesar, carthage, cassius, cicero, brutus, gaius": [
+        "roman_chunks/chunk_693.txt"
+    ],
+    "carthage, rome": [
+        "roman_chunks/chunk_694.txt"
+    ],
+    "murdered": [
+        "roman_chunks/chunk_695.txt"
+    ],
+    "brutus, cassius, caesar, junius": [
+        "roman_chunks/chunk_696.txt"
+    ],
+    "cicero, conspirators": [
+        "roman_chunks/chunk_697.txt"
+    ],
+    "martyr, brutus, stabbed, statue, cassius": [
+        "roman_chunks/chunk_699.txt"
+    ],
+    "caesar, tumult, antony": [
+        "roman_chunks/chunk_700.txt"
+    ],
+    "brutus, funeral, burial": [
+        "roman_chunks/chunk_701.txt"
+    ],
+    "caesar, cicero, napoleon, hannibal": [
+        "roman_chunks/chunk_702.txt"
+    ],
+    "cicero, statesman, writings": [
+        "roman_chunks/chunk_703.txt"
+    ],
+    "triumvirate, caesar, gaius, octavius": [
+        "roman_chunks/chunk_704.txt"
+    ],
+    "caesar, octavius, antony, rome": [
+        "roman_chunks/chunk_705.txt"
+    ],
+    "octavius, antony, caesar, dictator": [
+        "roman_chunks/chunk_706.txt"
+    ],
+    "cicero, antony, philippics, philip": [
+        "roman_chunks/chunk_707.txt"
+    ],
+    "triumvirate, octavius, antony": [
+        "roman_chunks/chunk_708.txt"
+    ],
+    "cicero, gaul, antony, provinces, sicily, sardinia": [
+        "roman_chunks/chunk_709.txt"
+    ],
+    "triumvirs, brutus, cassius, caesar": [
+        "roman_chunks/chunk_710.txt"
+    ],
+    "brutus, cassius, antony, triumvirs": [
+        "roman_chunks/chunk_711.txt"
+    ],
+    "brutus, monarchy, cassius": [
+        "roman_chunks/chunk_712.txt"
+    ],
+    "roman, philippi, antony, triumvirs, octavius": [
+        "roman_chunks/chunk_713.txt"
+    ],
+    "octavius, pompeius": [
+        "roman_chunks/chunk_714.txt"
+    ],
+    "antony, naulochus, rebel, fled": [
+        "roman_chunks/chunk_715.txt"
+    ],
+    "lepidus, roman, sicily, antony": [
+        "roman_chunks/chunk_716.txt"
+    ],
+    "antony, cleop\u00e1tra, octavia, alexandr\u00eda, octavius": [
+        "roman_chunks/chunk_717.txt"
+    ],
+    "octavius": [
+        "roman_chunks/chunk_718.txt"
+    ],
+    "antony, cleop\u00e1tra, octavius": [
+        "roman_chunks/chunk_719.txt"
+    ],
+    "antony, cleop\u00e1tra, battle, naulochus": [
+        "roman_chunks/chunk_720.txt"
+    ],
+    "antony, octavius, cleop\u00e1tra, alexandr\u00eda": [
+        "roman_chunks/chunk_721.txt"
+    ],
+    "cleop\u00e1tra, suicide, dead": [
+        "roman_chunks/chunk_722.txt"
+    ],
+    "rome, octavius, janus, egypt": [
+        "roman_chunks/chunk_723.txt"
+    ],
+    "cicero, marcus, tullius": [
+        "roman_chunks/chunk_724.txt"
+    ],
+    "adversaries": [
+        "roman_chunks/chunk_726.txt"
+    ],
+    "augustus, chapter": [
+        "roman_chunks/chunk_727.txt"
+    ],
+    "imperator, emperor, octavius": [
+        "roman_chunks/chunk_728.txt"
+    ],
+    "emperor, royalty, prince, princeps": [
+        "roman_chunks/chunk_729.txt"
+    ],
+    "senate, senators, emperor, convened": [
+        "roman_chunks/chunk_730.txt"
+    ],
+    "augustus, roman, maximus, consul, consuls, octavius, senate": [
+        "roman_chunks/chunk_731.txt"
+    ],
+    "augustus, senate": [
+        "roman_chunks/chunk_732.txt"
+    ],
+    "augustus, provinces": [
+        "roman_chunks/chunk_733.txt"
+    ],
+    "augustus, praetorian": [
+        "roman_chunks/chunk_734.txt"
+    ],
+    "danube, mediterranean, moesia": [
+        "roman_chunks/chunk_735.txt"
+    ],
+    "tiberius, augustus, conquered": [
+        "roman_chunks/chunk_736.txt"
+    ],
+    "germanicus, drusus, tiberius, claudius, antony": [
+        "roman_chunks/chunk_737.txt"
+    ],
+    "varus, lucius, roman, governor": [
+        "roman_chunks/chunk_738.txt"
+    ],
+    "varus": [
+        "roman_chunks/chunk_739.txt"
+    ],
+    "varus, legions, rome, roman, emperor": [
+        "roman_chunks/chunk_740.txt"
+    ],
+    "augustus, died": [
+        "roman_chunks/chunk_741.txt"
+    ],
+    "julia": [
+        "roman_chunks/chunk_742.txt"
+    ],
+    "octavia, augustus, virgil, marcellus": [
+        "roman_chunks/chunk_743.txt"
+    ],
+    "octavia, antony, claudius": [
+        "roman_chunks/chunk_744.txt"
+    ],
+    "augustus, agrippa, tiberius, octavius, emperor": [
+        "roman_chunks/chunk_745.txt"
+    ],
+    "augustus, greatness": [
+        "roman_chunks/chunk_746.txt"
+    ],
+    "('empire', 0.3357), ('greatness', 0.3188)": [
+        "roman_chunks/chunk_747.txt"
+    ],
+    "statesman, politician": [
+        "roman_chunks/chunk_748.txt"
+    ],
+    "augustan, age, chapter, xxxvii": [
+        "roman_chunks/chunk_749.txt"
+    ],
+    "augustus, cicero, horace, virgil": [
+        "roman_chunks/chunk_750.txt"
+    ],
+    "augustus, tacitus, seneca": [
+        "roman_chunks/chunk_751.txt"
+    ],
+    "virgil": [
+        "roman_chunks/chunk_752.txt"
+    ],
+    "virgil, poetry": [
+        "roman_chunks/chunk_754.txt"
+    ],
+    "horace, augustus, roman": [
+        "roman_chunks/chunk_755.txt"
+    ],
+    "horace, rome, brutus": [
+        "roman_chunks/chunk_756.txt"
+    ],
+    "horace, poet, poems, virgil": [
+        "roman_chunks/chunk_757.txt"
+    ],
+    "augustus, poets": [
+        "roman_chunks/chunk_758.txt"
+    ],
+    "augustus, verses": [
+        "roman_chunks/chunk_759.txt"
+    ],
+    "augustus, horace, virgil, maec\u00e9nas, augustan, rome": [
+        "roman_chunks/chunk_760.txt"
+    ],
+    "prose, writers": [
+        "roman_chunks/chunk_761.txt"
+    ],
+    "caesar, padua, livy": [
+        "roman_chunks/chunk_762.txt"
+    ],
+    "books, thirty": [
+        "roman_chunks/chunk_763.txt"
+    ],
+    "nepos, sallust, writer": [
+        "roman_chunks/chunk_764.txt"
+    ],
+    "gaius, statesman, pollio, asinius, contemporaries": [
+        "roman_chunks/chunk_765.txt"
+    ],
+    "augustus, temples, rome, basilica, _basilicae_": [
+        "roman_chunks/chunk_766.txt"
+    ],
+    "trajan, augustus": [
+        "roman_chunks/chunk_767.txt"
+    ],
+    "augustus, rome, tiberius, mausoleum": [
+        "roman_chunks/chunk_768.txt"
+    ],
+    "tiberius, augustus, emperors, julian, claudius": [
+        "roman_chunks/chunk_769.txt"
+    ],
+    "tiberius, augustus": [
+        "roman_chunks/chunk_770.txt",
+        "roman_chunks/chunk_774.txt"
+    ],
+    "character": [
+        "roman_chunks/chunk_771.txt"
+    ],
+    "augustus, emperor": [
+        "roman_chunks/chunk_772.txt"
+    ],
+    "counsel, disguises": [
+        "roman_chunks/chunk_773.txt"
+    ],
+    "tiberius, _imperium_, _majestas_, emperor, magistrate, _potestas_, prosecutions, majestas": [
+        "roman_chunks/chunk_776.txt"
+    ],
+    "emperor, ancient": [
+        "roman_chunks/chunk_777.txt"
+    ],
+    "augustus, livia, emperor": [
+        "roman_chunks/chunk_779.txt"
+    ],
+    "augustus, tiberius": [
+        "roman_chunks/chunk_780.txt"
+    ],
+    "sej\u00e1nus, tiberius, emperor": [
+        "roman_chunks/chunk_781.txt"
+    ],
+    "drusus, emperor, rome": [
+        "roman_chunks/chunk_782.txt"
+    ],
+    "tiberius, sej\u00e1nus, executed, caligula": [
+        "roman_chunks/chunk_783.txt"
+    ],
+    "tiberius, gaius, caligula, augustus, emperor": [
+        "roman_chunks/chunk_784.txt"
+    ],
+    "roman, praetorian, tyrant": [
+        "roman_chunks/chunk_785.txt"
+    ],
+    "claudius, emperor, emperors, claudian, praetorian": [
+        "roman_chunks/chunk_786.txt"
+    ],
+    "claudius, tiberius, caligula": [
+        "roman_chunks/chunk_787.txt"
+    ],
+    "emperor, nero": [
+        "roman_chunks/chunk_788.txt"
+    ],
+    "claudius": [
+        "roman_chunks/chunk_789.txt"
+    ],
+    "gauls": [
+        "roman_chunks/chunk_790.txt",
+        "roman_chunks/chunk_1090.txt"
+    ],
+    "claudius, aqueduct": [
+        "roman_chunks/chunk_791.txt"
+    ],
+    "augustus, praetorian, emperor, nero": [
+        "roman_chunks/chunk_792.txt"
+    ],
+    "emperor": [
+        "roman_chunks/chunk_793.txt"
+    ],
+    "emperor, circus, outraged": [
+        "roman_chunks/chunk_794.txt"
+    ],
+    "burned": [
+        "roman_chunks/chunk_795.txt"
+    ],
+    "statue, golden, palace": [
+        "roman_chunks/chunk_797.txt"
+    ],
+    "roman": [
+        "roman_chunks/chunk_798.txt"
+    ],
+    "emperors, verginius, nero": [
+        "roman_chunks/chunk_799.txt"
+    ],
+    "lucius, seneca, roman": [
+        "roman_chunks/chunk_800.txt"
+    ],
+    "consul, emperor": [
+        "roman_chunks/chunk_801.txt"
+    ],
+    "seneca, treatises": [
+        "roman_chunks/chunk_802.txt"
+    ],
+    "galba, vitellius, rome": [
+        "roman_chunks/chunk_803.txt"
+    ],
+    "otho, emperor": [
+        "roman_chunks/chunk_804.txt"
+    ],
+    "vitellius, emperors, vespasian, flavian": [
+        "roman_chunks/chunk_805.txt"
+    ],
+    "emperors, emperor, vespasi\u00e1nus, rome, titus, flavian, vespasian, vitellius": [
+        "roman_chunks/chunk_806.txt"
+    ],
+    "titus, gaul": [
+        "roman_chunks/chunk_807.txt"
+    ],
+    "janus, jos\u00e9phus, temple, titus": [
+        "roman_chunks/chunk_808.txt"
+    ],
+    "coloss\u00e9um, colossus, statue, vespasian, temple": [
+        "roman_chunks/chunk_809.txt"
+    ],
+    "titus, gaul, vespasian, consul, agricola": [
+        "roman_chunks/chunk_810.txt"
+    ],
+    "titus, coloss\u00e9um, temple, vespasian": [
+        "roman_chunks/chunk_811.txt"
+    ],
+    "pliny, vesuvius, volcano, domitian, eruption, pompeii": [
+        "roman_chunks/chunk_812.txt"
+    ],
+    "domitian, titus": [
+        "roman_chunks/chunk_813.txt"
+    ],
+    "emperors, flavian, caesars, nerva": [
+        "roman_chunks/chunk_814.txt"
+    ],
+    "emperors, emperor, trajan, trajanus, nerva": [
+        "roman_chunks/chunk_815.txt"
+    ],
+    "trajan, augustus, nerva": [
+        "roman_chunks/chunk_816.txt"
+    ],
+    "trajan, dacia, romanized, carpathians, danube": [
+        "roman_chunks/chunk_817.txt"
+    ],
+    "trajan": [
+        "roman_chunks/chunk_818.txt"
+    ],
+    "trajan, pliny": [
+        "roman_chunks/chunk_819.txt"
+    ],
+    "trajan, hadrian": [
+        "roman_chunks/chunk_820.txt"
+    ],
+    "conquests, warlike": [
+        "roman_chunks/chunk_821.txt"
+    ],
+    "hadrian": [
+        "roman_chunks/chunk_822.txt"
+    ],
+    "mausol\u00e9um, tomb, emperor": [
+        "roman_chunks/chunk_823.txt"
+    ],
+    "hadrian, verus": [
+        "roman_chunks/chunk_824.txt"
+    ],
+    "anton\u00ednus, pius, titus, gaul": [
+        "roman_chunks/chunk_825.txt"
+    ],
+    "parthians": [
+        "roman_chunks/chunk_826.txt"
+    ],
+    "persecuted, plague, victims, martyr, rome": [
+        "roman_chunks/chunk_827.txt"
+    ],
+    "aurelius, lucius, verus, emperor": [
+        "roman_chunks/chunk_828.txt"
+    ],
+    "aurelius, rome, barbarians": [
+        "roman_chunks/chunk_829.txt"
+    ],
+    "peace": [
+        "roman_chunks/chunk_830.txt"
+    ],
+    "aurelius, philosopher, marcus, emperors, rome, virtues": [
+        "roman_chunks/chunk_831.txt"
+    ],
+    "persecuted, persecutions, worship, romans": [
+        "roman_chunks/chunk_832.txt"
+    ],
+    "edict, persecution": [
+        "roman_chunks/chunk_833.txt"
+    ],
+    "empire, despotism, commodus": [
+        "roman_chunks/chunk_834.txt"
+    ],
+    "aurelius, emperors": [
+        "roman_chunks/chunk_835.txt"
+    ],
+    "notorious, reign": [
+        "roman_chunks/chunk_836.txt"
+    ],
+    "pertinax, julianus, septimius, severus": [
+        "roman_chunks/chunk_837.txt"
+    ],
+    "julianus, juli\u00e1nus, emperor, sev\u00e9rus, severus, deposed, septimius": [
+        "roman_chunks/chunk_838.txt"
+    ],
+    "sev\u00e9rus, legionaries": [
+        "roman_chunks/chunk_839.txt"
+    ],
+    "sev\u00e9rus, mesopotamia": [
+        "roman_chunks/chunk_840.txt"
+    ],
+    "sev\u00e9rus, heliogabalus, caracalla": [
+        "roman_chunks/chunk_841.txt"
+    ],
+    "caracalla, heliogabalus": [
+        "roman_chunks/chunk_842.txt"
+    ],
+    "sev\u00e9rus, severus, alexander, emperor": [
+        "roman_chunks/chunk_843.txt"
+    ],
+    "gordian": [
+        "roman_chunks/chunk_844.txt"
+    ],
+    "emperors, emperor, empire, generals, tyrants, seventeen": [
+        "roman_chunks/chunk_845.txt"
+    ],
+    "emperors, claudius": [
+        "roman_chunks/chunk_846.txt"
+    ],
+    "rome, zenobia": [
+        "roman_chunks/chunk_847.txt"
+    ],
+    "diocletian": [
+        "roman_chunks/chunk_848.txt"
+    ],
+    "gaul, diocletian, caesars, rome, constantius": [
+        "roman_chunks/chunk_849.txt"
+    ],
+    "constantius, caesars": [
+        "roman_chunks/chunk_850.txt"
+    ],
+    "constantine, caesar, caesars, emperor, diocletian": [
+        "roman_chunks/chunk_851.txt"
+    ],
+    "constantinople, byzantium, constantine, rome": [
+        "roman_chunks/chunk_852.txt"
+    ],
+    "constantinople, rome, empire": [
+        "roman_chunks/chunk_853.txt"
+    ],
+    "constantine": [
+        "roman_chunks/chunk_854.txt",
+        "roman_chunks/chunk_856.txt",
+        "roman_chunks/chunk_859.txt"
+    ],
+    "('council', 0.342), ('313', 0.3295)": [
+        "roman_chunks/chunk_855.txt"
+    ],
+    "father, virtues": [
+        "roman_chunks/chunk_857.txt"
+    ],
+    "empire, decline": [
+        "roman_chunks/chunk_858.txt"
+    ],
+    "constans, emperor, julian": [
+        "roman_chunks/chunk_860.txt"
+    ],
+    "julian": [
+        "roman_chunks/chunk_861.txt"
+    ],
+    "jovian": [
+        "roman_chunks/chunk_862.txt"
+    ],
+    "valentinian, rome, valens": [
+        "roman_chunks/chunk_863.txt"
+    ],
+    "constantinople, rome": [
+        "roman_chunks/chunk_864.txt"
+    ],
+    "emperor, theodosius, maximus": [
+        "roman_chunks/chunk_865.txt"
+    ],
+    "emperor, theodosius, empire, honorius": [
+        "roman_chunks/chunk_866.txt"
+    ],
+    "honorius, stilicho": [
+        "roman_chunks/chunk_867.txt"
+    ],
+    "rome, stilicho, besieged": [
+        "roman_chunks/chunk_868.txt"
+    ],
+    "honorius, romans, roman, aetius, gaul, valentinian": [
+        "roman_chunks/chunk_869.txt"
+    ],
+    "emperor, av\u00edtus, maximus": [
+        "roman_chunks/chunk_870.txt"
+    ],
+    "sev\u00e9rus, av\u00edtus": [
+        "roman_chunks/chunk_871.txt"
+    ],
+    "ricimer, anthemius": [
+        "roman_chunks/chunk_872.txt"
+    ],
+    "emperor, zeno": [
+        "roman_chunks/chunk_873.txt"
+    ],
+    "barbarians, invasions, rome, roman, empire, emperors, sieges": [
+        "roman_chunks/chunk_874.txt"
+    ],
+    "huns": [
+        "roman_chunks/chunk_875.txt"
+    ],
+    "visigoths, ostrogoths": [
+        "roman_chunks/chunk_876.txt"
+    ],
+    "romans, refuge, refugees": [
+        "roman_chunks/chunk_877.txt"
+    ],
+    "visigoths, ostrogoths, danube": [
+        "roman_chunks/chunk_878.txt"
+    ],
+    "goths, greece, defeated": [
+        "roman_chunks/chunk_879.txt"
+    ],
+    "theodosius, emperor, rome, empire": [
+        "roman_chunks/chunk_880.txt"
+    ],
+    "theodosius, alaric": [
+        "roman_chunks/chunk_881.txt"
+    ],
+    "constantinople, barbarian": [
+        "roman_chunks/chunk_882.txt"
+    ],
+    "honorius, alaric, gaul": [
+        "roman_chunks/chunk_883.txt"
+    ],
+    "alaric, verona, stilicho, honorius, besieged": [
+        "roman_chunks/chunk_884.txt"
+    ],
+    "rome, goths": [
+        "roman_chunks/chunk_885.txt"
+    ],
+    "('huns', 0.3303), ('radagaisus', 0.327)": [
+        "roman_chunks/chunk_886.txt"
+    ],
+    "burgundians, burgundy": [
+        "roman_chunks/chunk_887.txt"
+    ],
+    "spain, sueves, pyrenees, alans": [
+        "roman_chunks/chunk_888.txt"
+    ],
+    "rome, stilicho, emperor": [
+        "roman_chunks/chunk_889.txt"
+    ],
+    "alaric, rome, barbarians, stilicho": [
+        "roman_chunks/chunk_890.txt"
+    ],
+    "alaric, loire, gibraltar": [
+        "roman_chunks/chunk_891.txt"
+    ],
+    "burgundians, germans, visigoths, clodion": [
+        "roman_chunks/chunk_892.txt"
+    ],
+    "huns, attila": [
+        "roman_chunks/chunk_893.txt"
+    ],
+    "attila, gaul, huns": [
+        "roman_chunks/chunk_894.txt"
+    ],
+    "visigoths, attila, romans": [
+        "roman_chunks/chunk_895.txt"
+    ],
+    "scourge, italy, surrender, scoured": [
+        "roman_chunks/chunk_896.txt"
+    ],
+    "venice, adriatic, lagoons, islands, huns": [
+        "roman_chunks/chunk_897.txt"
+    ],
+    "attila, carthage, vandals": [
+        "roman_chunks/chunk_898.txt"
+    ],
+    "maximus, emperor, rome": [
+        "roman_chunks/chunk_899.txt"
+    ],
+    "barbarians, roman": [
+        "roman_chunks/chunk_900.txt"
+    ],
+    "plautus, poet, roman": [
+        "roman_chunks/chunk_901.txt"
+    ],
+    "terence, carthage": [
+        "roman_chunks/chunk_902.txt"
+    ],
+    "cicero, ennius, aen\u00e9as, quintus, roman, greek, poet, rome": [
+        "roman_chunks/chunk_903.txt"
+    ],
+    "cicero, prose, writer": [
+        "roman_chunks/chunk_904.txt"
+    ],
+    "orator, achievement, attain, meditation": [
+        "roman_chunks/chunk_905.txt"
+    ],
+    "meditation, demosthenes": [
+        "roman_chunks/chunk_906.txt"
+    ],
+    "cicero, antony, oratoribus, brutus": [
+        "roman_chunks/chunk_907.txt"
+    ],
+    "cicero, caesar, letters": [
+        "roman_chunks/chunk_908.txt"
+    ],
+    "caesar, cicero, gaul": [
+        "roman_chunks/chunk_909.txt"
+    ],
+    "cicero, nepos, cornelius": [
+        "roman_chunks/chunk_910.txt"
+    ],
+    "virgil, poet, catullus, poems, roman, poem, aen\u00e9as": [
+        "roman_chunks/chunk_911.txt"
+    ],
+    "virgil, horace, poet, _georgica_, poetry": [
+        "roman_chunks/chunk_912.txt"
+    ],
+    "propertius, albius, poet, poems, _amores_, ovidius, elegiac": [
+        "roman_chunks/chunk_913.txt"
+    ],
+    "tiberius, livius, phaedrus": [
+        "roman_chunks/chunk_914.txt"
+    ],
+    "persius, quintus, claudius, poet, emperor, rufus": [
+        "roman_chunks/chunk_915.txt"
+    ],
+    "lucan, pliny, gaius": [
+        "roman_chunks/chunk_916.txt"
+    ],
+    "quintilian": [
+        "roman_chunks/chunk_917.txt"
+    ],
+    "tacitus, juvenal, roman, historian, cornelius": [
+        "roman_chunks/chunk_918.txt"
+    ],
+    "orators, _historiae_, tiberius, claudius": [
+        "roman_chunks/chunk_919.txt"
+    ],
+    "pliny, younger, roman, elder": [
+        "roman_chunks/chunk_920.txt"
+    ],
+    "footpaths, roads": [
+        "roman_chunks/chunk_921.txt"
+    ],
+    "roads, rome, appia": [
+        "roman_chunks/chunk_922.txt"
+    ],
+    "adriatic, umbria, flaminia, fulsinia": [
+        "roman_chunks/chunk_923.txt"
+    ],
+    "pisaurum, mediol\u00e1num, aemilia, gaul": [
+        "roman_chunks/chunk_924.txt"
+    ],
+    "aurelia, gaul, etruria": [
+        "roman_chunks/chunk_925.txt"
+    ],
+    "provinces, praetors, proconsul, sicily, _provinciae": [
+        "roman_chunks/chunk_926.txt"
+    ],
+    "provinces, proconsul, province": [
+        "roman_chunks/chunk_927.txt"
+    ],
+    "quaestors, governor": [
+        "roman_chunks/chunk_928.txt"
+    ],
+    "misconducted, romans, governor, provincials": [
+        "roman_chunks/chunk_929.txt"
+    ],
+    "governor": [
+        "roman_chunks/chunk_930.txt"
+    ],
+    "verres, cicero, verrine, governors, provincials": [
+        "roman_chunks/chunk_931.txt"
+    ],
+    "provinces, sardinia, corsica, macedonia": [
+        "roman_chunks/chunk_932.txt"
+    ],
+    "emperors, assyria, roman": [
+        "roman_chunks/chunk_933.txt"
+    ],
+    "magistrates, consuls, consul": [
+        "roman_chunks/chunk_934.txt"
+    ],
+    "chair, praetor, stool, magister, seat": [
+        "roman_chunks/chunk_935.txt"
+    ],
+    "curule, cicero, ancestor": [
+        "roman_chunks/chunk_936.txt"
+    ],
+    "magistrates, plebeians, plebeian": [
+        "roman_chunks/chunk_937.txt"
+    ],
+    "consulship, consuls, quaestorship, magistrate, tribune": [
+        "roman_chunks/chunk_938.txt"
+    ],
+    "consul, consuls, magistrates, presided": [
+        "roman_chunks/chunk_939.txt"
+    ],
+    "lictors, magistrate, carrying, criminals": [
+        "roman_chunks/chunk_940.txt"
+    ],
+    "consul, _proconsul_, praetors": [
+        "roman_chunks/chunk_941.txt"
+    ],
+    "praetors, praetor, _praetor, consuls, judges, _propraetors_": [
+        "roman_chunks/chunk_942.txt"
+    ],
+    "praetors, _praetor, presided, courts, criminal, peregr\u00ednus_": [
+        "roman_chunks/chunk_943.txt"
+    ],
+    "aediles": [
+        "roman_chunks/chunk_944.txt"
+    ],
+    "aediles, plebeians, officers, magistrates": [
+        "roman_chunks/chunk_945.txt"
+    ],
+    "populace, praetor, circuses, wealthy, appropriated": [
+        "roman_chunks/chunk_946.txt"
+    ],
+    "quaestors, quaestor, treasurers, quartermasters": [
+        "roman_chunks/chunk_947.txt"
+    ],
+    "tribuni, plebis": [
+        "roman_chunks/chunk_948.txt"
+    ],
+    "plebeians, trib\u00fata, comitia": [
+        "roman_chunks/chunk_949.txt"
+    ],
+    "senate, _imperium_, preside": [
+        "roman_chunks/chunk_950.txt"
+    ],
+    "magistrates, consuls, censors, _imperium_": [
+        "roman_chunks/chunk_951.txt"
+    ],
+    "duties, treasury, taxes, senate, citizens, census, secretary, privilege": [
+        "roman_chunks/chunk_952.txt"
+    ],
+    "censorship, aediles, punish, duties": [
+        "roman_chunks/chunk_953.txt"
+    ],
+    "dictator, dictators, appointed, consuls, appoint, authority, caesar": [
+        "roman_chunks/chunk_954.txt"
+    ],
+    "dictator, priests, priest, magister, authority, imperium, appointed": [
+        "roman_chunks/chunk_955.txt"
+    ],
+    "_imperium_, imperium, imperator, magistrates, magistrate, praetor, dictator, _pomoerium_, consul": [
+        "roman_chunks/chunk_956.txt"
+    ],
+    "atrium, vestibulum, _vestibulum_, _atrium_, roman": [
+        "roman_chunks/chunk_958.txt"
+    ],
+    "atrium, balcony, peristylium": [
+        "roman_chunks/chunk_959.txt"
+    ],
+    "ceilings, floors, walls, houses, frescoing, frescoed": [
+        "roman_chunks/chunk_960.txt"
+    ],
+    "chimneys, stoves, rooms": [
+        "roman_chunks/chunk_961.txt"
+    ],
+    "vestibules, sculptures, furnished, rooms, walls": [
+        "roman_chunks/chunk_962.txt"
+    ],
+    "candles, lamps": [
+        "roman_chunks/chunk_963.txt"
+    ],
+    "meals, lunch, prandium, breakfast, dinner": [
+        "roman_chunks/chunk_964.txt"
+    ],
+    "condiments, fruits, meats": [
+        "roman_chunks/chunk_965.txt"
+    ],
+    "dining, guests, dinners, dinner": [
+        "roman_chunks/chunk_966.txt"
+    ],
+    "bathing, dress": [
+        "roman_chunks/chunk_967.txt"
+    ],
+    "tunica, tunic, toga, garments, garment": [
+        "roman_chunks/chunk_968.txt"
+    ],
+    "toga, garment, tunic, wore": [
+        "roman_chunks/chunk_969.txt"
+    ],
+    "women, ornaments, garment, shawl, stola, pulla, wore, purses": [
+        "roman_chunks/chunk_970.txt"
+    ],
+    "shoes, shoe, sandals, foot, gear": [
+        "roman_chunks/chunk_971.txt"
+    ],
+    "baths, bathing, bath, resort": [
+        "roman_chunks/chunk_972.txt"
+    ],
+    "saturnalia, saturn, celebrated, holidays, festival, holiday": [
+        "roman_chunks/chunk_973.txt"
+    ],
+    "presents, classes, relieved, pleasure": [
+        "roman_chunks/chunk_974.txt"
+    ],
+    "lupercalia, lupercal, lupercus, luperci, celebrated": [
+        "roman_chunks/chunk_975.txt"
+    ],
+    "lupercal, goats, sacrificed, sacrifice": [
+        "roman_chunks/chunk_976.txt"
+    ],
+    "quirinalia, quir\u00ednus, romulus, celebrated": [
+        "roman_chunks/chunk_977.txt"
+    ],
+    "gladiators": [
+        "roman_chunks/chunk_978.txt"
+    ],
+    "gladiators, swords, trainers, combatants, spectators, combatant": [
+        "roman_chunks/chunk_979.txt"
+    ],
+    "gladiators, _rudiarii_, _rudis_": [
+        "roman_chunks/chunk_980.txt"
+    ],
+    "theatre, circus, amphitheatre": [
+        "roman_chunks/chunk_981.txt"
+    ],
+    "amphitheatre, augustus": [
+        "roman_chunks/chunk_982.txt"
+    ],
+    "coloss\u00e9um, ar\u00e9na, circus, spectators, acres, caesar": [
+        "roman_chunks/chunk_983.txt"
+    ],
+    "theatre, seating": [
+        "roman_chunks/chunk_984.txt"
+    ],
+    "seats, crowd, persons": [
+        "roman_chunks/chunk_985.txt"
+    ],
+    "chariot, maximus, circus": [
+        "roman_chunks/chunk_986.txt"
+    ],
+    "fights, fought, combatants, celebrated": [
+        "roman_chunks/chunk_987.txt"
+    ],
+    "procession, triumphal": [
+        "roman_chunks/chunk_988.txt"
+    ],
+    "imperator, triumphal, triumph, procession, praetor": [
+        "roman_chunks/chunk_989.txt"
+    ],
+    "imperator, ascended, triumphal": [
+        "roman_chunks/chunk_990.txt"
+    ],
+    "procession, proceeded, order": [
+        "roman_chunks/chunk_991.txt"
+    ],
+    "conquered, imperator, captives, leaders, elephants, wreathed": [
+        "roman_chunks/chunk_992.txt"
+    ],
+    "wreath, wreathed, imperator, chariot, infantry": [
+        "roman_chunks/chunk_993.txt"
+    ],
+    "ovation, pomoerium, crowned": [
+        "roman_chunks/chunk_994.txt"
+    ],
+    "cicero, afric\u00e1nus, cornelius, lucius, gaius, julius, caesar, _agnomen_, _praenomen_, _nomen_": [
+        "roman_chunks/chunk_995.txt"
+    ],
+    "aemili\u00e1nus, aemilian, afric\u00e1nus": [
+        "roman_chunks/chunk_996.txt"
+    ],
+    "cornelia, scipio, cornelian, daughter, eldest": [
+        "roman_chunks/chunk_997.txt"
+    ],
+    "intermarriage, marriages, plebeians, wedding, marriage, patricians": [
+        "roman_chunks/chunk_998.txt"
+    ],
+    "bride, bridal, groom": [
+        "roman_chunks/chunk_999.txt"
+    ],
+    "bridal, bride, flowers, feast": [
+        "roman_chunks/chunk_1000.txt"
+    ],
+    "roman, greek": [
+        "roman_chunks/chunk_1001.txt"
+    ],
+    "hades": [
+        "roman_chunks/chunk_1002.txt"
+    ],
+    "funeral, funerals, mourning, mournful": [
+        "roman_chunks/chunk_1003.txt"
+    ],
+    "slaves, funeral, liberty": [
+        "roman_chunks/chunk_1004.txt"
+    ],
+    "mourning, lamentations, relatives": [
+        "roman_chunks/chunk_1005.txt"
+    ],
+    "burial, funeral, cremated, procession, bodies": [
+        "roman_chunks/chunk_1006.txt"
+    ],
+    "romans, greeks, greek, slaves, education": [
+        "roman_chunks/chunk_1007.txt"
+    ],
+    "writing, books, writers, _greek_": [
+        "roman_chunks/chunk_1008.txt"
+    ],
+    "parchment, papyrus, paper, writing, books, sheet": [
+        "roman_chunks/chunk_1009.txt"
+    ],
+    "letters, letter, _stylus_, parchment, writing, ink, pencil": [
+        "roman_chunks/chunk_1010.txt"
+    ],
+    "cicero, letter, mail, letters": [
+        "roman_chunks/chunk_1011.txt"
+    ],
+    "_rome_, buildings, palatine": [
+        "roman_chunks/chunk_1012.txt"
+    ],
+    "_forum, _forum_, porticos, forum_, square": [
+        "roman_chunks/chunk_1013.txt"
+    ],
+    "temples, temple": [
+        "roman_chunks/chunk_1014.txt"
+    ],
+    "janus, temple, tiberius": [
+        "roman_chunks/chunk_1015.txt"
+    ],
+    "temples, maximus, coloss\u00e9um, rome, capitol\u00ednus, circuses, circus": [
+        "roman_chunks/chunk_1016.txt"
+    ],
+    "basilica, basilicae, curia": [
+        "roman_chunks/chunk_1017.txt"
+    ],
+    "aqueducts, baths, aqueduct": [
+        "roman_chunks/chunk_1018.txt"
+    ],
+    "rome, sewers, clo\u00e1ca, largest, arch": [
+        "roman_chunks/chunk_1019.txt"
+    ],
+    "palatine, arches, septimius, arch, drusus": [
+        "roman_chunks/chunk_1020.txt"
+    ],
+    "constantine, galli\u00e9nus, arch, emperor": [
+        "roman_chunks/chunk_1021.txt"
+    ],
+    "mausol\u00e9a, augustus": [
+        "roman_chunks/chunk_1022.txt"
+    ],
+    "columnae, columns, trajan, emperors": [
+        "roman_chunks/chunk_1023.txt"
+    ],
+    "milliaria, augustus, _milliarium, columna": [
+        "roman_chunks/chunk_1024.txt"
+    ],
+    "colonies, rome": [
+        "roman_chunks/chunk_1025.txt"
+    ],
+    "colony, ceremonies": [
+        "roman_chunks/chunk_1026.txt"
+    ],
+    "roman, colonists, colonies, rome": [
+        "roman_chunks/chunk_1027.txt"
+    ],
+    "march, october": [
+        "roman_chunks/chunk_1028.txt"
+    ],
+    "divisions": [
+        "roman_chunks/chunk_1029.txt"
+    ],
+    "religion": [
+        "roman_chunks/chunk_1030.txt"
+    ],
+    "goddesses, romans, saturnalia, goddess": [
+        "roman_chunks/chunk_1031.txt"
+    ],
+    "tellilia, cerialia, palilia, lupercalia, ceres, tellus": [
+        "roman_chunks/chunk_1032.txt"
+    ],
+    "vesta, altar, worship, temple, goddess": [
+        "roman_chunks/chunk_1033.txt"
+    ],
+    "lares": [
+        "roman_chunks/chunk_1034.txt"
+    ],
+    "pen\u00e1tes, statues, temples": [
+        "roman_chunks/chunk_1035.txt"
+    ],
+    "vestals, vestal, vesta, priestesses": [
+        "roman_chunks/chunk_1036.txt"
+    ],
+    "temple, condemned": [
+        "roman_chunks/chunk_1037.txt"
+    ],
+    "flamines": [
+        "roman_chunks/chunk_1038.txt"
+    ],
+    "flamines, priests": [
+        "roman_chunks/chunk_1039.txt"
+    ],
+    "priest": [
+        "roman_chunks/chunk_1040.txt"
+    ],
+    "salii, mars, priests, celebrated": [
+        "roman_chunks/chunk_1041.txt"
+    ],
+    "('corporation', 0.3187), ('vacancies', 0.1986)": [
+        "roman_chunks/chunk_1043.txt"
+    ],
+    "roman, priests, caesar, fetiales": [
+        "roman_chunks/chunk_1044.txt"
+    ],
+    "infantry, legion, battalions, regiment, platoons": [
+        "roman_chunks/chunk_1045.txt"
+    ],
+    "armor, legionary, soldier, garment, helmet": [
+        "roman_chunks/chunk_1046.txt"
+    ],
+    "legionary, javelin, cavalry, roman": [
+        "roman_chunks/chunk_1047.txt"
+    ],
+    "officers, centurions, legion": [
+        "roman_chunks/chunk_1048.txt"
+    ],
+    "legion, centurions, centurion, officers": [
+        "roman_chunks/chunk_1049.txt"
+    ],
+    "legion, cohors, praetoria": [
+        "roman_chunks/chunk_1050.txt"
+    ],
+    "fortifications, camp": [
+        "roman_chunks/chunk_1051.txt"
+    ],
+    "decuman, gate, camp, tent": [
+        "roman_chunks/chunk_1052.txt"
+    ],
+    "rome, chapter, legendary": [
+        "roman_chunks/chunk_1053.txt"
+    ],
+    "aeneas, aen\u00e9as": [
+        "roman_chunks/chunk_1054.txt"
+    ],
+    "ascanius, alb\u00e1nus": [
+        "roman_chunks/chunk_1055.txt"
+    ],
+    "silvius, amulius, numitor": [
+        "roman_chunks/chunk_1056.txt"
+    ],
+    "amulius, remus, romulus": [
+        "roman_chunks/chunk_1057.txt"
+    ],
+    "faustulus, amulius": [
+        "roman_chunks/chunk_1058.txt"
+    ],
+    "remus, rome, romulus": [
+        "roman_chunks/chunk_1059.txt"
+    ],
+    "romulus, romans, rome": [
+        "roman_chunks/chunk_1060.txt"
+    ],
+    "romulus, virgins, sabines": [
+        "roman_chunks/chunk_1061.txt"
+    ],
+    "tullus, hostilius": [
+        "roman_chunks/chunk_1062.txt"
+    ],
+    "lucius, tarquinius": [
+        "roman_chunks/chunk_1064.txt"
+    ],
+    "clo\u00e1ca, capitol\u00ednus, tarquin, temple": [
+        "roman_chunks/chunk_1065.txt"
+    ],
+    "servius, di\u00e1na, tullius": [
+        "roman_chunks/chunk_1066.txt"
+    ],
+    "tarquinius": [
+        "roman_chunks/chunk_1067.txt"
+    ],
+    "('temple', 0.317), ('apollo', 0.3049)": [
+        "roman_chunks/chunk_1068.txt"
+    ],
+    "apollo, deities, worship": [
+        "roman_chunks/chunk_1069.txt"
+    ],
+    "conspiracy, collat\u00ednus": [
+        "roman_chunks/chunk_1070.txt"
+    ],
+    "tarquin": [
+        "roman_chunks/chunk_1071.txt"
+    ],
+    "swam, river, macaulay, rome": [
+        "roman_chunks/chunk_1072.txt"
+    ],
+    "quintus, mucius": [
+        "roman_chunks/chunk_1073.txt"
+    ],
+    "scaevola, mucius": [
+        "roman_chunks/chunk_1074.txt"
+    ],
+    "tarquin, tusculum, retirement": [
+        "roman_chunks/chunk_1075.txt"
+    ],
+    "plebeians, rome, menenius": [
+        "roman_chunks/chunk_1076.txt"
+    ],
+    "officers, trib\u00fani, plebis": [
+        "roman_chunks/chunk_1077.txt"
+    ],
+    "gaius, marcius, volsci": [
+        "roman_chunks/chunk_1078.txt"
+    ],
+    "shakespeare, traitor, coriolanus": [
+        "roman_chunks/chunk_1079.txt"
+    ],
+    "fabius, fabii": [
+        "roman_chunks/chunk_1080.txt"
+    ],
+    "fabius, quintus": [
+        "roman_chunks/chunk_1081.txt"
+    ],
+    "romans, cincinn\u00e1tus, lucius, roman, quinctus": [
+        "roman_chunks/chunk_1082.txt"
+    ],
+    "aequi, dictator, surrender": [
+        "roman_chunks/chunk_1083.txt"
+    ],
+    "decemvir, claudius, decemviri, virginius, lucius": [
+        "roman_chunks/chunk_1084.txt"
+    ],
+    "decemvir, decemviri, virginius": [
+        "roman_chunks/chunk_1085.txt"
+    ],
+    "furius, camillus, rome": [
+        "roman_chunks/chunk_1086.txt"
+    ],
+    "camillus, brennus, dictator, gauls": [
+        "roman_chunks/chunk_1087.txt"
+    ],
+    "brennus, romans, gauls": [
+        "roman_chunks/chunk_1088.txt"
+    ],
+    "('camillus', 0.3444), ('romans', 0.3)": [
+        "roman_chunks/chunk_1089.txt"
+    ],
+    "chronology, dates, 389": [
+        "roman_chunks/chunk_1091.txt"
+    ],
+    "romulus, rome, tarquinius, pompilius, servius, horatius, hostilius": [
+        "roman_chunks/chunk_1092.txt"
+    ],
+    "rome, latin, municipium, cincinn\u00e1tus": [
+        "roman_chunks/chunk_1093.txt"
+    ],
+    "municipium, samnite, caere": [
+        "roman_chunks/chunk_1094.txt"
+    ],
+    "rome, sardinia, corsica": [
+        "roman_chunks/chunk_1095.txt"
+    ],
+    "corsica, sardinia, macedonian": [
+        "roman_chunks/chunk_1096.txt"
+    ],
+    "macedonian, carthage, war": [
+        "roman_chunks/chunk_1097.txt"
+    ],
+    "tiberius, gaius, war, gracchus, mithrad\u00e1tes": [
+        "roman_chunks/chunk_1098.txt"
+    ],
+    "cicero, caesar, sertorius, lucullus, consul, spartacus, triumvirate, mithrad\u00e1tes": [
+        "roman_chunks/chunk_1099.txt"
+    ],
+    "cicero, caesar, gaul, clodius": [
+        "roman_chunks/chunk_1100.txt"
+    ],
+    "caesar, cleopatra, cicero, rome, triumvirate": [
+        "roman_chunks/chunk_1101.txt"
+    ],
+    "cicero, murder, naulochus": [
+        "roman_chunks/chunk_1102.txt"
+    ],
+    "emperors, augustus, empire, julian": [
+        "roman_chunks/chunk_1103.txt"
+    ],
+    "emperors, tiberius, claudius, titus, vespasian": [
+        "roman_chunks/chunk_1104.txt"
+    ],
+    "emperors, constantine, trajan, anton\u00ednus, pius, hadrian, empire, edict": [
+        "roman_chunks/chunk_1105.txt"
+    ],
+    "rome, 1889, 1888": [
+        "roman_chunks/chunk_1106.txt"
+    ],
+    "augustus, rome, roman": [
+        "roman_chunks/chunk_1107.txt"
+    ],
+    "latinae, roman, praetor, praetorship, cannae": [
+        "roman_chunks/chunk_1108.txt"
+    ],
+    "('roman', 0.3422), ('rome', 0.3138)": [
+        "roman_chunks/chunk_1109.txt"
+    ],
+    "('rome', 0.3481), ('romanus_', 0.3458)": [
+        "roman_chunks/chunk_1110.txt"
+    ],
+    "plebeians, romanus_, patricians": [
+        "roman_chunks/chunk_1111.txt"
+    ],
+    "hannibal, roman": [
+        "roman_chunks/chunk_1112.txt"
+    ],
+    "cicero, triumvirate, augustus, octavianus, rome": [
+        "roman_chunks/chunk_1113.txt"
+    ],
+    "_praetorian, rome": [
+        "roman_chunks/chunk_1114.txt"
+    ],
+    "triumvirate, pompeians, tribunate": [
+        "roman_chunks/chunk_1115.txt"
+    ],
+    "('diocletian', 0.3366), ('provinces', 0.3176)": [
+        "roman_chunks/chunk_1116.txt"
+    ],
+    "('roman', 0.3483), ('1889', 0.3252)": [
+        "roman_chunks/chunk_1117.txt"
+    ],
+    "cicero, roman, tiberius, carthage, rebelled": [
+        "roman_chunks/chunk_1119.txt"
+    ],
+    "('rome', 0.3389), ('roman', 0.31)": [
+        "roman_chunks/chunk_1120.txt"
+    ],
+    "romans, rome": [
+        "roman_chunks/chunk_1121.txt",
+        "roman_chunks/chunk_1132.txt",
+        "roman_chunks/chunk_1140.txt"
+    ],
+    "rome, 1889": [
+        "roman_chunks/chunk_1122.txt"
+    ],
+    "romans, roman, tribunes": [
+        "roman_chunks/chunk_1123.txt"
+    ],
+    "roman, caesar": [
+        "roman_chunks/chunk_1124.txt"
+    ],
+    "diocletian, rome, roman": [
+        "roman_chunks/chunk_1125.txt"
+    ],
+    "marius, downfall, rome": [
+        "roman_chunks/chunk_1126.txt"
+    ],
+    "plebeians, agrarian": [
+        "roman_chunks/chunk_1127.txt"
+    ],
+    "tables, romans": [
+        "roman_chunks/chunk_1128.txt"
+    ],
+    "('augustus', 0.3453), ('roman', 0.3212)": [
+        "roman_chunks/chunk_1129.txt"
+    ],
+    "tiberius, augustus, gracchus, gracchi": [
+        "roman_chunks/chunk_1130.txt"
+    ],
+    "gracchi, roman": [
+        "roman_chunks/chunk_1131.txt"
+    ],
+    "rome, caesar, provinces": [
+        "roman_chunks/chunk_1133.txt"
+    ],
+    "roman, triumvirate, constantine, rome": [
+        "roman_chunks/chunk_1134.txt"
+    ],
+    "samnite, samnites": [
+        "roman_chunks/chunk_1135.txt"
+    ],
+    "rome, 1888": [
+        "roman_chunks/chunk_1136.txt"
+    ],
+    "('samnites', 0.3478), ('samnite', 0.3296)": [
+        "roman_chunks/chunk_1137.txt"
+    ],
+    "punic": [
+        "roman_chunks/chunk_1138.txt"
+    ],
+    "triumvirate, caesar, rome": [
+        "roman_chunks/chunk_1139.txt"
+    ],
+    "constitution, 1887": [
+        "roman_chunks/chunk_1141.txt"
+    ],
+    "carthage, carthaginians, romans, fabius, hannibal": [
+        "roman_chunks/chunk_1142.txt"
+    ],
+    "augustus, triumvirate": [
+        "roman_chunks/chunk_1143.txt"
+    ],
+    "rome, romans, jerusalem": [
+        "roman_chunks/chunk_1144.txt"
+    ],
+    "rome, italy, naples, latins": [
+        "roman_chunks/chunk_1145.txt"
+    ],
+    "achaeans, agrarian, agricola, aetolians, aemilian, agrigentum, aequians, afric\u00e1nus, acroceraunia, aegyptus": [
+        "roman_chunks/chunk_1146.txt"
+    ],
+    "agricola, agrigentum, alexandr\u00eda, antiochus, alesia, agrippa, agripp\u00edna, agrarian, allia, alexander": [
+        "roman_chunks/chunk_1147.txt"
+    ],
+    "antiochus, apollonius, claudius, appius, apollo, antonius, antony, apollonia, anthemius, anton\u00ednus": [
+        "roman_chunks/chunk_1148.txt"
+    ],
+    "appuleian, arcadius, aquileia, archel\u00e1us, aqueducts, aqu\u00ednum, ariovistus, archim\u00e9des, ariobarz\u00e1nes, ariminum": [
+        "roman_chunks/chunk_1149.txt"
+    ],
+    "assyria, attalus, avernus, aurelius, arretium, aternus, avaricum, anton\u00ednus, aurelia, aufidus": [
+        "roman_chunks/chunk_1150.txt"
+    ],
+    "basilicae, basilica, brutus, bocchus, bovillae, gauls, baetis, baeculae, britannicus, brennus": [
+        "roman_chunks/chunk_1151.txt"
+    ],
+    "brutus, junius, burrhus, byzantium, marcus": [
+        "roman_chunks/chunk_1152.txt"
+    ],
+    "caesars, caesar, calpurnian, gaius, calceus, calpurnia, julius, caere, canuleius, caracalla": [
+        "roman_chunks/chunk_1153.txt"
+    ],
+    "celtib\u00e9ri, carthage, carthaginians, cappadocia, catullus, capreae, cassivelaunus, capua, cerialia, caracalla": [
+        "roman_chunks/chunk_1154.txt"
+    ],
+    "celts, cicero, cenom\u00e1ni, ceth\u00e9gus, cineas, cerialia, cincinn\u00e1tus, ceres, censors, claudius": [
+        "roman_chunks/chunk_1155.txt"
+    ],
+    "claudius, emperors, trajan, coloss\u00e9um, emperor, collat\u00ednus, cleop\u00e1tra, colossus, latin, praetoria": [
+        "roman_chunks/chunk_1156.txt"
+    ],
+    "cornelia, milliaria, constantinople, constantine, columna, consuls, metellus, corfinium, columns": [
+        "roman_chunks/chunk_1157.txt"
+    ],
+    "curia, curiae, cornelia, crem\u00f3na, curule, crassus, cyrenaica, triumvir, corsica": [
+        "roman_chunks/chunk_1158.txt"
+    ],
+    "drusus, damophilus, duilius, dacia, decius, germanicus, domitius, dolabella, diocletian, deiotarus": [
+        "roman_chunks/chunk_1159.txt"
+    ],
+    "ecnomus, euphr\u00e1tes, egnatius, edict, ep\u00edrus, etruscans, epidamnus, etruria, egesta, enipeus": [
+        "roman_chunks/chunk_1160.txt"
+    ],
+    "fabius, emperors, rome, gaul, flavian, caesaris, flamin\u00ednus, quintus, flaminian, festivals": [
+        "roman_chunks/chunk_1161.txt"
+    ],
+    "forum, gaul, caesaris, trajan, julii, holitorium": [
+        "roman_chunks/chunk_1162.txt"
+    ],
+    "emperors, germanicus, gauls, genucius, gaul, gades, emperor, gabinius, galatia, genabum": [
+        "roman_chunks/chunk_1163.txt"
+    ],
+    "gracchus, tiberius, emperors, gracchi, glaucia, greek": [
+        "roman_chunks/chunk_1164.txt"
+    ],
+    "hadrum\u00e9tum, heliogabalus, hadrian, hispania, hannibal, hortensius, hieronymus, hirtius": [
+        "roman_chunks/chunk_1165.txt"
+    ],
+    "hortensius, hispania, horace, horatius, hyrc\u00e1nus, huns": [
+        "roman_chunks/chunk_1166.txt"
+    ],
+    "iapygia, iapygians, illyricum, imperium, intermarriage, illyrican, i\u00falus, icilius, ib\u00e9rus, interrex": [
+        "roman_chunks/chunk_1167.txt"
+    ],
+    "juli\u00e1nus, janus, augustus, julia, janiculum, julian, caesar, jos\u00e9phus, emperors, quinctius": [
+        "roman_chunks/chunk_1168.txt"
+    ],
+    "lat\u00ednus, laev\u00ednus, romans, latin, lacinian, labi\u00e9nus, lanuvium, lavinia, lentulus, lavinium": [
+        "roman_chunks/chunk_1169.txt"
+    ],
+    "leptis, licinius, liguria, lucania, lupercalia, luperci, lucretia, lucullus, lesbos, literature": [
+        "roman_chunks/chunk_1170.txt"
+    ],
+    "macedonian, macedonia, massilia, manlius, manilius, augustus": [
+        "roman_chunks/chunk_1171.txt"
+    ],
+    "mausol\u00e9um, augustus, maximus, massilia, macedonicus, mauretania": [
+        "roman_chunks/chunk_1172.txt"
+    ],
+    "milliarium, mithrad\u00e1tes, mil\u00e9tus, minerva, minturnae, municipia, mummius": [
+        "roman_chunks/chunk_1173.txt"
+    ],
+    "naples, noricum, ostia, numitor, numantia, naulochus, nervii, octavia, consul, numidia": [
+        "roman_chunks/chunk_1174.txt"
+    ],
+    "padua, palatine, patricians, phars\u00e1lus, macedonia, patavium, patrician, perseus, philip, philippics": [
+        "roman_chunks/chunk_1175.txt"
+    ],
+    "philip, pliny, papirian, pomoerium, pontius, philopoemen, pompeia, pompeius, plebeians, polybius": [
+        "roman_chunks/chunk_1176.txt"
+    ],
+    "pompeius, praetorium, ptolemy, praetorian, praeneste, praetor, marshes, praefect\u00farae, pontus, pompey": [
+        "roman_chunks/chunk_1177.txt"
+    ],
+    "ptolemy, cleop\u00e1tra, alexander, provincial, publilius, cyprus": [
+        "roman_chunks/chunk_1178.txt"
+    ],
+    "quinctius, romans, rome, roman, regulus, quirinalia, regillus, remus, caesar, romulus": [
+        "roman_chunks/chunk_1179.txt"
+    ],
+    "scipio, samnium, sabis, samnites, saturn\u00ednus, sabines, sacred, scaevola, sacredness, scribonia": [
+        "roman_chunks/chunk_1180.txt"
+    ],
+    "sev\u00e9rus, sertorius, scipio, sempronius, servian, sempronia, segesta, later\u00e1nus, servius, asiaticus": [
+        "roman_chunks/chunk_1181.txt"
+    ],
+    "sicily, later\u00e1nus, sextus, sparta, soleae, silvius, sulpicius, slaves": [
+        "roman_chunks/chunk_1182.txt"
+    ],
+    "sulpicius, sulla, sulmo, sueves, syria, sutrium, sybaris": [
+        "roman_chunks/chunk_1183.txt"
+    ],
+    "tacitus, tarentum, tarquinius, temple, emperor, apollo, tarquinii, tarrac\u00edna, tablinum, tauromenium": [
+        "roman_chunks/chunk_1184.txt"
+    ],
+    "temple, legion, theodosius, tiberius, tic\u00ednus": [
+        "roman_chunks/chunk_1185.txt"
+    ],
+    "tic\u00ednus, tibullus, tigell\u00ednus, trib\u00fatum, triumvirate, trinacria, trib\u00fani, trebonius, trig\u00e1num, tullius": [
+        "roman_chunks/chunk_1186.txt"
+    ],
+    "triumvirate, caesars, tullius, tullia, tullus, tunica, hostilius, tyndaris": [
+        "roman_chunks/chunk_1187.txt"
+    ],
+    "umbria, umbrians, utica": [
+        "roman_chunks/chunk_1188.txt"
+    ],
+    "valerius, vadim\u00f3nis, verginius, valentinian, venetia, veientes, vercellae, vespasian, valerio, venusia": [
+        "roman_chunks/chunk_1189.txt"
+    ],
+    "vesuvius, virginius, vitellius, veturius, volturnus, ver\u00f3na, vespasian, verres, lucius, verus": [
+        "roman_chunks/chunk_1190.txt"
+    ],
+    "gutenberg, ancient, editions, rome, laws, code": [
+        "roman_chunks/chunk_1191.txt"
+    ],
+    "copyright, gutenberg": [
+        "roman_chunks/chunk_1192.txt"
+    ],
+    "gutenberg, ebook, trademark": [
+        "roman_chunks/chunk_1193.txt"
+    ],
+    "gutenberg, ebook, ebooks, copyright, redistribution": [
+        "roman_chunks/chunk_1194.txt"
+    ],
+    "gutenberg, license": [
+        "roman_chunks/chunk_1195.txt"
+    ],
+    "gutenberg, redistributing, electronic": [
+        "roman_chunks/chunk_1196.txt"
+    ],
+    "gutenberg, copyright, license, copies, agreement": [
+        "roman_chunks/chunk_1197.txt"
+    ],
+    "refund, gutenberg": [
+        "roman_chunks/chunk_1198.txt",
+        "roman_chunks/chunk_1217.txt"
+    ],
+    "gutenberg": [
+        "roman_chunks/chunk_1199.txt",
+        "roman_chunks/chunk_1202.txt",
+        "roman_chunks/chunk_1203.txt",
+        "roman_chunks/chunk_1206.txt",
+        "roman_chunks/chunk_1213.txt",
+        "roman_chunks/chunk_1214.txt"
+    ],
+    "gutenberg, electronic": [
+        "roman_chunks/chunk_1200.txt"
+    ],
+    "copyright, gutenberg, archive": [
+        "roman_chunks/chunk_1201.txt"
+    ],
+    "copyright, gutenberg, copying, downloading": [
+        "roman_chunks/chunk_1204.txt"
+    ],
+    "gutenberg, copyright": [
+        "roman_chunks/chunk_1205.txt",
+        "roman_chunks/chunk_1210.txt"
+    ],
+    "ebook, gutenberg": [
+        "roman_chunks/chunk_1207.txt"
+    ],
+    "ebook, gutenberg, copyright": [
+        "roman_chunks/chunk_1208.txt"
+    ],
+    "gutenberg, redistributing": [
+        "roman_chunks/chunk_1209.txt"
+    ],
+    "('gutenberg', 0.3389), ('unlink', 0.3147)": [
+        "roman_chunks/chunk_1211.txt"
+    ],
+    "gutenberg, format": [
+        "roman_chunks/chunk_1212.txt"
+    ],
+    "royalties, taxes": [
+        "roman_chunks/chunk_1215.txt"
+    ],
+    "tax": [
+        "roman_chunks/chunk_1216.txt"
+    ],
+    "gutenberg, copies, refund": [
+        "roman_chunks/chunk_1218.txt"
+    ],
+    "gutenberg, permission": [
+        "roman_chunks/chunk_1219.txt"
+    ],
+    "gutenberg, copyright, proofread, transcribe": [
+        "roman_chunks/chunk_1220.txt"
+    ],
+    "virus, computer, corrupt, errors": [
+        "roman_chunks/chunk_1221.txt"
+    ],
+    "negligence, gutenberg, disclaimer, liability, damages, disclaim, refund, warranty": [
+        "roman_chunks/chunk_1222.txt"
+    ],
+    "trademark, negligence, liable, damages, liability, foundation, fees": [
+        "roman_chunks/chunk_1223.txt"
+    ],
+    "refund, defect, return": [
+        "roman_chunks/chunk_1224.txt"
+    ],
+    "refund, electronically, defective": [
+        "roman_chunks/chunk_1225.txt"
+    ],
+    "warranties, merchantability": [
+        "roman_chunks/chunk_1226.txt"
+    ],
+    "disclaimers, disclaimer, warranties, violates, provisions, limitation, agreement": [
+        "roman_chunks/chunk_1227.txt"
+    ],
+    "indemnity, gutenberg, trademark, foundation, liability": [
+        "roman_chunks/chunk_1228.txt"
+    ],
+    "fees, gutenberg": [
+        "roman_chunks/chunk_1229.txt"
+    ],
+    "gutenberg, formats": [
+        "roman_chunks/chunk_1230.txt"
+    ],
+    "gutenberg, archive, literary": [
+        "roman_chunks/chunk_1231.txt"
+    ],
+    "generations, gutenberg, literary, archive": [
+        "roman_chunks/chunk_1232.txt"
+    ],
+    "gutenberg, literary, archive": [
+        "roman_chunks/chunk_1233.txt"
+    ],
+    "gutenberg, archive": [
+        "roman_chunks/chunk_1234.txt"
+    ],
+    "gutenberg, foundation": [
+        "roman_chunks/chunk_1235.txt"
+    ],
+    "gutenberg, donations": [
+        "roman_chunks/chunk_1236.txt"
+    ],
+    "donations, charities, foundation, compliance, charitable, complying, donate": [
+        "roman_chunks/chunk_1237.txt"
+    ],
+    "donations, donate, donors, solicitation": [
+        "roman_chunks/chunk_1238.txt"
+    ],
+    "donation, donations, donate, gutenberg": [
+        "roman_chunks/chunk_1239.txt"
+    ],
+    "gutenberg, ebooks, library, hart": [
+        "roman_chunks/chunk_1240.txt"
+    ],
+    "gutenberg, ebooks, copyright, editions": [
+        "roman_chunks/chunk_1241.txt"
+    ],
+    "gutenberg, ebooks": [
+        "roman_chunks/chunk_1242.txt"
+    ]
+}
