@@ -1,0 +1,10 @@
+[INST] 
+Using only the following historal context, answer the query from the User
+<Historical Textbook Background> 
+{}
+<Historical Textbook Background> 
+
+## User Question: What is LLaMA, and what is it used for?
+
+## Response:
+[/INST]
