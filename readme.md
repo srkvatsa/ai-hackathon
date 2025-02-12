@@ -5,5 +5,7 @@
 
 Example use-case provided is textbook summaries and semantic search for students. The concept is detailed in this [video](https://www.youtube.com/watch?v=5-HrpSHAQ9U).
 
+<sub><sup>Logo created with DALL-E.</sup></sub>
+
 
 
